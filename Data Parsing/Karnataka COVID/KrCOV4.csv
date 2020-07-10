@@ -1,0 +1,1467 @@
+patient_number,age,gender,residence,info
+*Patient number 1462 , 30,female, Raichur,  a travel history to Mumbai
+Patient number 1461 , 12,female, Raichur,  a travel history to Mumbai  
+*Patient number 1460 , 40,female, Raichur,  a travel history to Mumbai  
+*Patient number 1459 , 26,female, Raichur,  a travel history to Mumbai  
+*Patient number 1458 , 40,female, Bidar,  contact of P-590  
+*Patient number 1457 , 9,female, Bidar,  contact of P-648 
+*Patient number 1456 , 72, male, Bidar,  contact of P-981 
+*Patient number 1455 , 45, male, Bidar,  contact of P-943 
+*Patient number 1454 , 15, male, Bidar,  contact of P-943 
+*Patient number 1453 , 56, male, Bidar,  contact of P-772 
+*Patient number 1452 , 18, male, Bidar,  contact of P-943 
+*Patient number 1451 , 12,female, Bidar,  contact of P-981 
+*Patient number 1450 , 6,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1449 , 47,female, Upudpi,  a travel history to Mumbai 
+*Patient number 1448 , 55,female, Yadagiri,  a travel history to Mumbai 
+*Patient number 1447 , 7,female, Hassan,  a travel history to Mumbai
+Patient number 1446 , 43, male, Hassan,  a travel history to Mumbai 
+*Patient number 1445 , 28,female, Hassan,  a travel history to Mumbai 
+*Patient number 1444 , 61,female, Hassan,  a travel history to Mumbai 
+*Patient number 1443 , 35,female, Hassan,  a travel history to Mumbai 
+*Patient number 1442 , 13, male, Hassan,  a travel history to Mumbai 
+*Patient number 1441 , 16, male, Hassan,  a travel history to Mumbai 
+*Patient number 1440 , 38, male, Hassan,  a travel history to Mumbai
+Patient number 1439 , 37, male, Hassan,  a travel history to Mumbai 
+*Patient number 1438 , 13, male, Hassan,  a travel history to Mumbai 
+*Patient number 1437 , 40,female, Dakshina Kannada,  case of SARI  
+*Patient number 1436 , 31,female, Udupi,  a travel history to Mumbai 
+*Patient number 1435 , 74, male, Udupi,  a travel history to Mumbai 
+*Patient number 1434 , 15,female, Udupi,  a travel history to Mumbai 
+*Patient number 1433 , 4,female, Udupi,  a travel history to Mumbai 
+*Patient number 1432 , 55, male, Udupi,  a travel history to Mumbai 
+*Patient number 1431 , 38,female, Bidar,  contact of P-1041  
+*Patient number 1430 , 24,female, Bidar, contact of P-1041
+*Patient number 1429 , 50, male, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1428 , 26, male, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1427 , 46, male, Kalaburagi,  a travel history to Ratnagiri Maharashtra  
+*Patient number 1426 , 22,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1425 , 25, male, Kalaburagi,  a travel history to Nandurbar Maharashtra  
+*Patient number 1424 , 35, male, Kalaburagi,  a travel history to Ratnagiri Maharashtra 
+*Patient number 1423 , 22, male, Kalaburagi,  a travel history to Jalgaon Maharashtra 
+*Patient number 1422 , 31,female, Hassan,  a travel history to Mumbai 
+*Patient number 1421 , 45,female, Hassan,  a travel history to Mumbai 
+*Patient number 1420 , 40, male, Hassan,  a travel history to Mumbai 
+*Patient number 1419 , 64, male, Hassan,  a travel history to Mumbai 
+*Patient number 1418 , 22, male, Hassan,  a travel history to Mumbai 
+*Patient number 1417 , 24,female, Hassan,  a travel history to Mumbai 
+*Patient number 1416 , 36, male, Hassan,  a travel history to Mumbai 
+*Patient number 1415 , 42,female, Hassan,  a travel history to Mumbai 
+*Patient number 1414 , 35,female, Hassan,  a travel history to Vishakapattanam 
+*Patient number 1413 , 46, male, Uttara Kannada,  a travel history to Solapur  
+*Patient number 1412 , 27,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1411 , 66,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1410 , 44, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1409 , 14,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1408 , 39, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1407 , 10,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1406 , 40, male, Bengaluru Urban,  contact of P-701 
+*Patient number 1405 , 31,female, Bengaluru Urban,  contact of P-701 
+*Patient number 1404 , 12,female, Tumukuru,  a travel history to Mumbai 
+*Patient number 1403 , 10, male, Tumukuru, a travel history to Mumbai 
+*Patient number 1402 , 30,female, Tumukuru,  a travel history to Mumbai 
+*Patient number 1401 , 28,female, Tumukuru,  a travel history to Mumbai 
+*Patient number 1400 , 36,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1399 , 50, male, Hassan,  a travel history to Mumbai 
+*Patient number 1398 , 30, male, Hassan,  a travel history to Mumbai 
+*Patient number 1397 , 28, male, Bengluru Urban,  Contact under tracing  
+*Patient number 1396 , 30, male, Bengluru Urban,  Contact under tracing  
+*Patient number 1395 , 43, male, Bagalakote,  contact of P-607  
+*Patient number 1394 , 23, male, Bagalakote,  contact of P-607  
+*Patient number 1393 , 40, male, Bagalakote,  contact of P-607 
+*Patient number 1392 , 11,female, Bagalakote,  contact of P-607 
+*Patient number 1391 , 38, male, Bagalakote,  a travel history to Kolhapur Maharashtra 
+*Patient number 1390 , 10, male, ChikkaMangaluru,  a travel history to Mumbai  
+*Patient number 1389 , 17,female, ChikkaMangaluru,  a travel history to Mumbai 
+*Patient number 1388 , 7, male, ChikkaMangaluru,  a travel history to Mumbai 
+*Patient number 1387 , 21, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1386 , 37,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1385 , 17,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1384 , 20, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1383 , 48, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1382 , 13,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1381 , 26, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1380 , 30, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1379 , 36,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1378 , 69, male, Davanagere,  Contact of a containment zone in Davanagere 
+*Patient number 1377 , 35,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1376 , 6, male, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1375 , 29,female, Raichur,  a travel history to Solapur Maharashtra 
+*Patient number 1374 , 2, male, Bidar,  contact of P-939 
+*Patient number 1373 , 70, male, Davanagere,  contact of P-556 
+*Patient number 1372 , 35,female, Davanagere,  contact of P-662 
+*Patient number 1371 , 13, male, Davanagere,  contact of P-976 
+*Patient number 1370 , 11, male, Davanagere,  contact of P-976 
+*Patient number 1373 , 70, male, Davanagere,  contact of P-556 
+*Patient number 1372 , 35, male, Davanagere,  contact of P-662 
+*Patient number 1371 , 13, male, Davanagere,  contact of P-976 
+*Patient number 1370 , 11, male, Davanagere,  contact of P-976 
+*Patient number 1369 , 20, male, Davanagere,  a travel history to Ahmedabad  
+*Patient number 1368 , 30,female, Davanagere, a travel history to Kerala
+Patient number 1367 , 25, male, Davanagere,  a travel history to Ahmedabad 
+*Patient number 1366 , 18, male, Davanagere,  an inter-district travel history to Channagiri  
+*Patient number 1365 , 18, male, Davanagere,  an inter-district travel history to Channagiri 
+*Patient number 1364 , 54, male, Bengaluru Urban,  Contract under tracing  
+*Patient number 1363 , 34,female, Uttar Kannada,  a travel history to Mumbai 
+*Patient number 1362 , 31,female, Uttar Kannada,  a travel history to Madurai 
+*Patient number 1361 , 35,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1360 , 27,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1359 , 15, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1358 , 26, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1357 , 5, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1356 , 33,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1355 , 46, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1354 , 54, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1353 , 35, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1352 , 46, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1351 , 15,female, Mandaya,  a travel history to Mumbai
+Patient number 1350 , 33,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1349 , 40,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1348 , 37, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1347 , 31,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1346 , 38, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1345 , 40, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1344 , 8,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1342 , 37, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1341 , 34,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1340 , 16,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1339 , 40, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1338 , 47,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1337 , 35,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1336 , 10, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1335 , 41, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1334 , 28,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1333 , 10, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1332 , 34, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1331 , 12,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1330 , 32,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1329 , 12,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1328 , 44, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1327 , 52, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1326 , 45,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1325 , 52, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1324 , 50,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1323 , 1,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1322 , 19,female, Mandaya,  a travel history to Mumbai
+Patient number 1321 , 18,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1320 , 39,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1319 , 12, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1318 , 45, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1317 , 20, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1316 , 30,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1315 , 38, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1314 , 16, male, Uttara Kannada,  a travel history to Solapur Maharashtra 
+*Patient number 1313 , 24, male, Uttara Kannada,  a travel history to Gujarat 
+*Patient number 1312 , 38,female, Hassan,  a travel history to Mumbai  
+*Patient number 1311 , 13, male, Hassan,  a travel history to Mumbai 
+*Patient number 1310 , 17,female, Hassan,  a travel history to Mumbai 
+*Patient number 1309 , 40,female, Davanagere,  contact of P-663  
+*Patient number 1308 , 28,female, Shivamogga, a with a travel history to Mumbai 
+*Patient number 1307 , 49,female, Gadag,  a travel history to Mumbai 
+*Patient number 1306 , 20,female, Bengaluru Urban,  Contact of a containment zone in Bengaluru  
+*Patient number 1305 , 63, male, Shivamogga,  Contact under tracing  
+*Patient number 1304 , 15,female, Shivamogga,  Contact under tracing  
+*Patient number 1303 , 12, male, Shivamogga,  a travel history to Kerala 
+*Patient number 1302 , 39,female, Shivamogga,  a travel history to Mumbai 
+*Patient number 1301 , 29, male, Shivamogga,  a travel history to Mumbai 
+*Patient number 1300 , 20, male, Shivamogga,  a travel history to AP 
+*Patient number 1299 , 13, male, Shivamogga,  a travel history to Mumbai 
+*Patient number 1298 , 34,female, Shivamogga,  a travel history to Mumbai 
+*Patient number 1297 , 39, male, Shivamogga,  a travel history to Mumbai 
+*Patient number 1296 , 27,female, ChikkaMangaluru,  Contact under tracing  
+*Patient number 1295 , 43, male, ChikkaMangaluru,  Contact under tracing  
+*Patient number 1294 , 25,female, Bengaluru Urban,  contact of P-608  
+*Patient number 1293 , 36,female, Davanagere,  contact of P-976 
+*Patient number 1292 , 23,female, Davanagere,  contact of P-976 
+*Patient number 1291 , 65,female, Vijaypura,  Contact of a containment zone in Vijaypura  
+*Patient number 1290 , 17,female, Chitradurga,  case of SARI  
+*Patient number 1289 , 38, male, Udupi,  a travel history to Mumbai 
+*Patient number 1288 , 8, male, Udupi,  a travel history to Mumbai 
+*Patient number 1287 , 24,female, Udupi,  a travel history to Mumbai 
+*Patient number 1286 , 24, male, Udupi,  a travel history to Mumbai 
+*Patient number 1285 , 25, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1284 , 34, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1283 , 65, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1282 , 18, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1281 , 33,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1280 , 9, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1279 , 52,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1278 , 50, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1277 , 20,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1276 , 17, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1275 , 40,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1274 , 60,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1273 , 24,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1272 , 16,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1271 , 1, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1270 , 32, male, Bengaluru Urban,  case ILI  
+*Patient number 1269 , 78, male, Bengaluru Urban,  contact of P-608  
+*Patient number 1268 , 54,female, Bengaluru Urban,  contact of P-608 
+*Patient number 1267 , 32, male, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1266 , 30,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1265 , 30,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1264 , 40, male, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1263 , 21,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1262 , 32, male, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1261 , 35,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1260 , 8,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1259 , 18,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1258 , 42, male, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1257 , 7, male, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1256 , 2, male, Yadagiri,  a travel history to Mumbai 
+*Patient number 1255 , 31, male, Davanagere,  contact of P-633  
+*Patient number 1254 , 30, male, Davanagere,  contact of P-633  
+*Patient number 1253 , 5, male, Davanagere,  contact of P-662 
+*Patient number 1252 , 14, male, Davanagere,  contact of P-662 
+*Patient number 1251 , 48, male, Davanagere,  contact of a containment zone in Davanagere  
+*Patient number 1250 , 22,female, Davanagere,  contact of P-662 
+*Patient number 1249 , 58,female, Davanagere,  contact of P-662 
+*Patient number 1248 , 27, male, Davanagere,  contact of P-662 
+*Patient number 1247 , 35,female, Davanagere,  contact of P-694 
+*Patient number 1246 , 25,female, Kalaburagi,  a travel history to Pune 
+*Patient number 1245 , 5,female, Kalaburagi,  a travel history to Pune 
+*Patient number 1244 , 4, male, Kalaburagi,  a travel history to Pune
+Patient number 1243 , 6,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1242 , 4,female, Kalaburagi,  a travel history to Mumbai  
+*Patient number 1241 , 8,female, Bengaluru Urban,  Officials say he visited a containment zone in the city  
+*Patient number 1240 , 30,female, Bengaluru Urban,  Contact of containment zone  
+*Patient number 1239 , 11, male, Bengaluru Urban,  Contact of containment zone 
+*Patient number 1238 , 32, male, Bengaluru Urban,  Contact of containment zone 
+*Patient number 1237 , 39, male, Bengaluru Urban,  Contact of containment zone 
+*Patient number 1236 , 43, male, Bengaluru Urban,  a travel history to Vellore Tamil Nadu  
+*Patient number 1236 , 43, male, Bengaluru Urban,  a travel history to Vellore Tamil Nadu  
+*Patient number 1235 , 28,female, Udupi,  a travel history to Mumbai  
+*Patient number 1234 , 55,female, Dakshina Kannada,  case of SARI  
+*Patient number 1233 , 30, male, Dakshina Kannada,  a travel history to Raigadh Maharashtra 
+*Patient number 1232 , 37, male,Uttara Kannada,  a travel history to Mumbai  
+*Patient number 1231 , 3,female, Mandaya,  a travel history to Mumbai  
+*Patient number 1230 , 8,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1229 , 30, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1228 , 8, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1227 , 23,female,Belagavi,  a travel history to Mumbai 
+*Patient number 1226 , 23, male,Belagavi,  contact of P-575  
+*Patient number 1225 , 46, male, Mysuru,  a travel history to Mumbai  
+*Patient number 1224 , 45,female, Kodagu,  a travel history to Mumbai 
+*Patient number 1223 , 40,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1222 , 04, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1221 , 33, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1220 , 26, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1219 , 35, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1218 , 24,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1217 , 31, male, Mandaya,  a travel history to Mumbai
+Patient number 1216 , 42, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1215 , 10, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1214 , 50,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1213 , 28, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1212 , 25,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1211 , 22, male, Vijayapura,  a travel history to Mumbai 
+*Patient number 1210 , 16, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1209 , 14, male, Bengaluru Urban,  contact of P-653
+*Patient number 1208 , 43, male, Bengaluru Urban,  a travel history to Chennai  
+*Patient number 1207 , 20, male, Bengaluru Urban,  a travel history to Nelamangala 
+*Patient number 1206 , 02,female, Uttar Kannada,  contact of P-659  
+*Patient number 1205 , 10,female, Uttar Kannada,  a travel history to Mumbai 
+*Patient number 1204 , 24, male, Uttar Kannada,  a travel history to Mumbai 
+*Patient number 1203 , 8, male, Uttar Kannada,  a travel history to Mumbai 
+*Patient number 1202 , 40, male, Uttar Kannada,  a travel history to Mumbai 
+*Patient number 1201 , 28,female, Uttar Kannada,  a travel history to Mumbai 
+*Patient number 1200 , 35,female, Uttar Kannada,  a travel history to Mumbai 
+*Patient number 1199 , 27, male, Uttar Kannada,  a travel history to Mumbai 
+*Patient number 1198 , 1,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1197 , 27,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1196 , 29, male, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1195 , 24,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1194 , 22,female, Kalaburagi,  a travel history to Mumbai 
+*Patient number 1193 , 13, male, Bidar, a contact of P-939  
+*Patient number 1192 , 30, male, Yadagiri,  a travel history to Mumbai 
+*Patient number 1191 , 15, male, Yadagiri,  a travel history to Mumbai 
+*Patient number 1190 , 30, male, Yadagiri,  a travel history to Mumbai 
+*Patient number 1189 , 25, male, Yadagiri,  a travel history to Mumbai 
+*Patient number 1188 , 25,female, Yadagiri,  a travel history to Mumbai 
+*Patient number 1187 , 24,female, Yadagiri,  a travel history to Mumbai 
+*Patient number 1186 , 24, male, Dawanagere,  a travel history to Solapura Maharashtra  
+*Patient number 1185 , 61, male, Bellari,  case of SARI  
+*Patient number 1184 , 20,female, Vijayapura,  a travel history to Mumbai 
+*Patient number 1183 , 10, male, Vijayapura,  a travel history to Mumbai 
+*Patient number 1182 , 12, male, Gadaga,  Contact of containment zone in Gadaga  
+*Patient number 1181 , 32, male, Gadaga,  Contact of containment zone in Gadaga 
+*Patient number 1180 , 58, male, Gadaga, contact of P-913  
+*Patient number 1179 , 33, male, Gadaga, contact of P-913  
+*Patient number 1178 , 30, male, Gadaga,  a travel history to Chennai  
+*Patient number 1177 , 45, male, Vijapura,  a travel history to Mumbai 
+*Patient number 1176 , 19,female, Vijapura,  a travel history to Mumbai 
+*Patient number 1175 , 25, male, Koppal,  a travel history to Chennai  
+*Patient number 1174 , 20,female, Koppal,  a travel history to Raigad Maharashtra  
+*Patient number 1173 , 24, male, Koppal,  a travel history to Mumbai  
+*Patient number 1172 , 21, male, Bengaluru Urban,  contact of P-653  
+*Patient number 1171 , 19, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1170 , 30, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1169 , 32, male, Bengaluru Urban,  contact of P-653  
+*Patient number 1168 , 21, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1167 , 25, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1166 , 19, male, Bengaluru Urban,  contact of P-653  
+*Patient number 1165 , 27, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1164 , 23, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1163 , 25, male, Bengaluru Urban,  contact of P-653  
+*Patient number 1162 , 24, male, Bengaluru Urban,  contact of P-653  
+*Patient number 1161 , 28, male, Bengaluru Urban,  contact of P-653  
+*Patient number 1160 , 23, male, Bengaluru Urban,  contact of P-653  
+*Patient number 1159 , 26, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1158 , 26, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1157 , 44, male, Raichur,  a travel history to Mumbai  
+*Patient number 1156 , 20, male, Raichur,  a travel history to Solapura 
+*Patient number 1155 , 32,female, Raichur,  a travel history to Mumbai 
+*Patient number 1154 , 25,female, Raichur,  a travel history to Mumbai 
+*Patient number 1153 , 37,female, Raichur,  a travel history to Mumbai 
+*Patient number 1152 , 36, male, Raichur,  a travel history to Mumbai 
+*Patient number 1151 , 29,female, Hassan,  a travel history to Mumbai 
+*Patient number 1150 , 34, male, Hassan,  a travel history to Mumbai 
+*Patient number 1149 , 40,female, Hassan,  a travel history to Mumbai  
+*Patient number 1148 , 17, male, Hassan,  a travel history to Mumbai 
+*Patient number 1147 , 68, male, Bhatkal Uttar Kannada,  contact of P-740  
+*Patient number 1146 , 43, male, Kolara,  Contact tracing is on  
+*Patient number 1145 , 24, male, Hassan,  a travel history to Mumbai 
+*Patient number 1144 , 28, male, Hassan,  a travel history to Mumbai 
+*Patient number 1143 , 25, male, Dharwada,  a travel history to Kolhapur 
+*Patient number 1142 , 28,female, Dharwada,  a travel history to Mumbai 
+*Patient number 1141 , 34, male, Yadagiri,  a travel history to Mumbai 
+*Patient number 1140 , 22, male, Yadagiri,  a travel history to Mumbai 
+*Patient number 1139 , 30, male, Yadagiri,  a travel history to Mumbai 
+*Patient number 1138 , 55, male, Kalaburgi,  a travel history to Mumbai 
+*Patient number 1137 , 40, male, Kalaburgi,  a travel history to Mumbai 
+*Patient number 1136 , 7, male, Kalaburgi,  a travel history to Mumbai 
+*Patient number 1135 , 13, male, Kalaburgi,  a travel history to Mumbai 
+*Patient number 1134 , 50,female, Kalaburgi,  contact of P-927  
+*Patient number 1133 , 36, male, Kalaburgi,  a travel history to Mumbai 
+*Patient number 1132 , 55, male, Kalaburgi,  contact of P-927  
+*Patient number 1131 , 10, male, Kalaburgi,  a travel history to Mumbai 
+*Patient number 1130 , 55, male, Kalaburgi,  Officials say he visited a containment zone in Kalaburgi  
+*Patient number 1129 , 35,female, Kalaburgi,  Contact tracing is on  
+*Patient number 1128 , 49, male, Kolara,  case of SARI 
+*Patient number 1127 , 51, male, Shivamogga,  a travel history to Mumbai  
+*Patient number 1126 , 24, male, Shivamogga,  a travel history to Mumbai 
+*Patient number 1125 , 53, male, Mandaya,  contact of P-869  
+*Patient number 1124 , 16, male, Dharwada,  contact of P-589 
+*Patient number 1123 , 39, male, Dharwada,  a travel history to Mumbai 
+*Patient number 1122 , 35,female, Vijayapura,  contact of P-577  
+*Patient number 1121 , 3,female, Hassan,  a travel history to Mumbai 
+*Patient number 1120 , 22,female, Hassan,  a travel history to Mumbai 
+*Patient number 1119 , 33, male, Hassan,  a travel history to Mumbai 
+*Patient number 1118 , 37,female, Hassan,  a travel history to Mumbai 
+*Patient number 1117 , 1, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1116 , 39, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1115 , 32,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1114 , 28, male, Mandaya,  contact of P-869  
+*Patient number 1113 , 60,female, Mandaya,  contact of P-869 
+*Patient number 1112 , 65,female, Mandaya,  contact of P-869 
+*Patient number 1111 , 35,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1110 , 52, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1109 , 44, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1108 , 75,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1107 , 32, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1106 , 32,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1105 , 48,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1104 , 58, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1103 , 8, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1102 , 28,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1101 , 8, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1100 , 11,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1099 , 9, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1098 , 33,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1097 , 48, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1096 , 27, male, Kolara,  a travel history to Chennai 
+*Patient number 1095 , 35,female, Dakshina Kannada,  a travel history to Mumbai 
+*Patient number 1094 , 31, male, Dakshina Kannada,  Contact tracing is on  
+*Patient number 1093 , 54, male, Udupi,  a travel history to Mumbai 
+*Patient number 1092 , 18, male, Hassan,  a travel history to Mumbai  
+*Patient number 1091 , 4,female, Vijayapura,  contact of P-594  
+*Patient number 1090 , 4,female, Shivamogga,  a travel history to Mumbai  
+*Patient number 1089 , 42, male, Shivamogga,  a travel history to Mumbai 
+*Patient number 1088 , 38,female, Shivamogga,  a travel history to Mumbai 
+*Patient number 1087 , 10,female, Kalaburgi,  contact of P-848 
+*Patient number 1086 , 60, male, Kalaburgi,  contact of P-848 
+*Patient number 1085 , 50,female, Kalaburgi,  contact of P-927 
+*Patient number 1084 , 30,female, Kalaburgi,  a travel history to Mumbai 
+*Patient number 1083 , 55, male, Kalaburgi,  contact of P-848 
+*Patient number 1082 , 14,female, Kalaburgi,  contact of P-848 
+*Patient number 1081 , 15,female, Kalaburgi,  contact of P-848 
+*Patient number 1080 , 33,female, Kalaburgi,  contact of P-848 
+*Patient number 1079 , 21,female, Hassan,  a travel history to Mumbai 
+*Patient number 1078 , 63, male, Hassan,  a travel history to Mumbai 
+*Patient number 1077 , 19, male, Bengaluru Urban,  contact of P-653  
+*Patient number 1076 , 18, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1075 , 17, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1074 , 33, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1073 , 26, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1072 , 24, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1071 , 23, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1070 , 24, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1069 , 27, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1068 , 20, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1067 , 50, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1066 , 20, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1065 , 25, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1064 , 27, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1063 , 33, male, Bagalakote,  a travel history to Mumbai 
+*Patient number 1062 , 46, male, Ballari,  a travel history to Ahmedabad 
+*Patient number 1061 , 65,female, Davanagere,  contact of P-533 
+*Patient number 1060 , 34, male, Dharwad,  a travel history to Mumbai  
+*Patient number 1059 , 1,female, Udupi,  a travel history to Dubai 
+*Patient number 1058 , 50, male, Hassan,  a travel history to Mumbai 
+*Patient number 1057 , 40, male, Mandaya,  a travel history to Kolara Karnataka  
+*Patient number 1056 , 28, male, Mandaya,  a travel history to Mumbai  
+*Patient number 1055 , 06,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1054 , 46, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1053 , 15, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1052 , 42, male, Mandaya,  a travel history to Mumbai  
+*Patient number 1051 , 9,female, Mandaya,  a travel history to Mumbai  
+*Patient number 1050 , 39,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1049 , 28, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1048 , 22, male, Mandaya,  a travel history to Mumbai  
+*Patient number 1047 , 50, male, Mandaya,  a travel history to Mumbai  
+*Patient number 1046 , 40,female, Mandaya,  a travel history to Mumbai 
+*Patient number 1045 , 33, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1044 , 34, male, Mandaya,  a travel history to Mumbai 
+*Patient number 1043 , 38,female, Bidar,  Officials say he visited containment zone in Bidar  
+*Patient number 1042 , 36, male, Bidar,  a travel history to Mumbai 
+*Patient number 1041 , 52, male, Bidar,  a travel history to Hyderabad  He gobyebye on May 15  
+*Patient number 1040 , 24, male, Kalaburgi,  a travel history to Mumbai  
+*Patient number 1039 , 80, male, Kalaburgi,  case of Influenza Like Illness (ILI)
+*Patient number 1038 , 30,female, Kalaburgi,  Officials say he visited a containment zone in Kalaburgi  
+*Patient number 1037 , 46, male, Bidar,  Officials say he visited a containment zone in Bidar
+*Patient number 1036 , 30,female, Hassan,  a travel history to Mumbai 
+*Patient number 1035 , 08, male, Hassan,  a travel history to Mumbai 
+*Patient number 1034 , 18,female, Hassan,  a travel history to Mumbai 
+*Patient number 1033 , 30, male, Hassan,  a travel history to Mumbai 
+*Patient number 1032 , 37, male, Udupi,  a travel history to Dubai 
+*Patient number 1031 , 38,female, Udupi,  a travel history to Dubai 
+*Patient number 1030 , 33,female, Udupi,  a travel history to Dubai 
+*Patient number 1029 , 31, male, Udupi,  a travel history to Dubai 
+*Patient number 1028 , 52, male, Udupi,  a travel history to Dubai 
+*Patient number 1027 , 21, male, Bengaluru Urban,  contact of P-653  
+*Patient number 1026 , 30, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1025 , 28, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1024 , 33, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1023 , 27, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1022 , 27, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1021 , 15, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1020 , 28, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1019 , 22, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1018 , 21, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1017 , 21, male, Bengaluru Urban,  contact of P-653 
+*Patient number 1016 , 40, male,Uttara Kannada,  a travel history to Dubai  
+*Patient number 1015 , 71, male, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1014 , 40, male, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1013 , 39, male, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1012 , 65, male, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1011 , 38, male, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1010 , 37, male, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1009 , 68,female, Dakshina Kannada,  case of SARI  
+*Patient number 1008 , 76, male, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1007 , 27, male, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1006 , 81, male, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1005 , 27,female, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1004 , 33,female, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1003 , 45, male, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1002 , 6, male, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1001 , 69,female, Dakshina Kannada,  a travel history to Dubai 
+*Patient number 1000 , 21,female, Bagalakote,  contact of P-865 
+*Patient number 999 , 24, male, Bidar,  Officials say he visited a containment zone in Bidar 
+*Patient number 998 , 33, male, Hassan,  a travel history to Mumbai  
+*Patient number 997 , 7, male, Hassan,  a travel history to Mumbai  
+*Patient number 996 , 24,female, Hassan,  a travel history to Mumbai 
+*Patient number 995 , 42, male, Shivamogga,  a travel history to Mumbai 
+*Patient number 994 , 39, male, Chitradurga,  a travel history to Chennai 
+*Patient number 993 , 03,female, Chitradurga,  a travel history to Chennai 
+*Patient number 992 , 24, male, Kolara,  a travel history to Chennai 
+*Patient number 991 , 40,female, Bidar,  contact of P-937 
+*Patient number 990 , 14,female, Bidar,  contact of P-936 
+*Patient number 989 , 32,female, Bengaluru Urban,  contact of P-911 
+*Patient number 988 , 6,female, Bengaluru Urban,  contact of P-911 
+*Patient number 987 , 36,female, Bidar,  contact of P-959  
+*Patient number 986 , 16, male, Bidar,  contact of P-959 
+*Patient number 985 , 18, male, Bidar,  contact of P-959 
+*Patient number 984 , 28, male, Kalaburgi,  contact of P-610 
+*Patient number 983 , 80,female, Kalaburgi,  contact of P-587  
+*Patient number 982 , 37, male, Mandaya,  contact of P-179 
+*Patient number 981 , 25, male, Bidar,  Officials say he visited a containment zone in Bidar  
+*Patient number 980 , 29, male, Bidar,  Officials say he visited a containment zone in Bidar  
+*Patient number 979 , 32, male, Bidar,  Officials say he visited a containment zone in Bidar  
+*Patient number 978 , 45,female, Bidar,  a travel history to Mumbai 
+*Patient number 977 , 23, male, Bagalakote,  a travel of domestic travel 
+*Patient number 976 , 32, male, Davanagere,  case of Influenza Like Illness (ILI)
+*Patient number 975 , 34, male, Davanagere,  Officials say he visited a containment zone in Bidar  
+*Patient number 974 , 27,female,Belagavi,  a travel history to Mumbai 
+*Patient number 973 , 28, male, Gadag,  a travel history to Ahmedabad 
+*Patient number 972 , 44, male, Gadag,  a travel history to Ahmedabad 
+*Patient number 971 , 47, male, Gadag,  a travel history to Ahmedabad 
+*Patient number 970 , 62, male, Gadag,  a travel history to Ahmedabad 
+*Patient number 969 , 10, male, Bengaluru Urban,  contact of P-555  
+*Patient number 968 , 40,female, Bengaluru Urban,  contact of P-554 
+*Patient number 967 , 45, male, Bengaluru Urban,  contact of P-554 
+*Patient number 966 , 10, male, Bengaluru Urban,  contact of P-554 
+*Patient number 965 , 8, male, Bengaluru Urban,  contact of P-554 
+*Patient number 964 , 26, male, Mandaya,  a travel history to Mumbai 
+*Patient number 963 , 6, male, Mandaya,  a travel history to Mumbai 
+*Patient number 962 , 38, male, Mandaya,  a travel history to Mumbai 
+*Patient number 961 , 48,female, Mandaya,  a travel history to Mumbai 
+*Patient number 960 , 40, male, Davanagere,  contact of P-852  
+*Patient number 959 , 44, male, Bidar,  Officials say he visited a containment zone in Bidar
+*Patient number 958 , 24, male, Bengaluru Urban,  a travel history to London  
+*Patient number 957 , 35,female, Kalaburgi,  contact of P-806  
+*Patient number 956 , 15,female, Kalaburgi,  contact of P-806 
+*Patient number 955 , 28,female, Kalaburgi,  contact of P-806 
+*Patient number 954 , 19, male, Kalaburgi,  a travel history to Andra Pradesh  
+*Patient number 953 , 30,female, Kalaburgi,  contact of P-848  
+*Patient number 952 , 42,female, Kalaburgi,  contact of P-806 
+*Patient number 951 , 43, male, Hassan,  a travel history to Mumbai 
+*Patient number 950 , 14,female, Hassan,  a travel history to Mumbai 
+*Patient number 949 , 17, male, Hassan,  a travel history to Mumbai 
+*Patient number 948 , 38,female, Hassan,  a travel history to Mumbai 
+*Patient number 947 , 38,female, Dakshina Kannada,  contact of P-507  
+*Patient number 946 , 26, male,Uttara Kannada,  a travel history to Ratnagiri Maharashtra  
+*Patient number 945 , 18, male, Vijayapura,  a travel history to Mumbai  
+*Patient number 944 , 30, male, Vijayapura,  a travel history to Mumbai 
+*Patient number 943 , 35,female, Bidar,  Officials say he visited a containment zone in Bidar 
+*Patient number 942 , 14,female, Bidar,  Officials say he visited a containment zone in Bidar 
+*Patient number 941 , 16,female, Bidar,  Officials say he visited a containment zone in Bidar 
+*Patient number 940 , 15,female, Bidar,  Officials say he visited a containment zone in Bidar 
+*Patient number 939 , 31,female, Bidar,  Officials say he visited a containment zone in Bidar 
+*Patient number 938 , 36,female, Bidar,  Officials say he visited a containment zone in Bidar 
+*Patient number 937 , 17, male, Bidar,  Officials say he visited a containment zone in Bidar
+Patient number 936 , 36,female, Bidar,  Officials say he visited a containment zone in Bidar
+Patient number 935 , 19,female, Bidar,  Officials say he visited a containment zone in Bidar 
+*Patient number 934 , 11, male, Davanagere,  contact of P-695  
+*Patient number 933 , 33,female, Davanagere,  contact of P-695 
+*Patient number 932 , 26,female, Bidar,  Officials say he visited a containment zone in Bidar  
+*Patient number 931 , 30, male, Bidar,  Officials say he visited a containment zone in Bidar  
+*Patient number 930 , 18,female, Bellary,  case of SARI  
+*Patient number 929 , 2,female,Uttara Kannad,  contact of P-786  
+*Patient number 928 , 37,female, Bengaluru Urban,  Contact tracing is on  
+*Patient number 927 , 60, male, Kalaburgi,  Officials say he visited a containment zone in Bidar He gobyebye on May 13  
+*Patient number 926 , 45, male, Kalaburgi,  contact of P-848  
+*Patient number 925 , 9,female, Davanagere,  contact of P-696  
+*Patient number 924 , 28, male, Davanagere,  contact of P-696  
+*Patient number 923 , 45, male, Davanagere,  contact of P-696 
+*Patient number 922 , 29, male, Davanagere,  contact of P-695 
+*Patient number 921 , 23, male, Davanagere,  contact of P-695 
+*Patient number 920 , 20, male, Davanagere,  a travel history to Ahmedabad  
+*Patient number 919 , 20, male, Davanagere,  a travel history to Ahmedabad 
+*Patient number 918 , 40, male, Davanagere,  a travel history to Ahmedabad 
+*Patient number 917 , 40, male, Davanagere,  a travel history to Ahmedabad 
+*Patient number 916 , 23, male, Davanagere,  a travel history to Ahmedabad 
+*Patient number 915 , 18, male, Davanagere,  a travel history to Ahmedabad 
+*Patient number 914 , 17,female, Davanagere,  contact of P-696
+*Patient number 913 , 65, male, Gadag,  contact of P-514  
+*Patient number 912 , 61, male, Gadag,  contact of P-514 
+*Patient number 911 , 35, male, Bengaluru Urban,  Contact tracing is underway  
+*Patient number 910 , 21, male, Kolara,  a travel history to Orissa  
+*Patient number 909 , 27, male, Kolara,  a travel history to Orissa  
+*Patient number 908 , 22, male, Kolara,  a travel history to Chennai 
+*Patient number 907 , 70,female, Kolara,  Contact tracing is underway  
+*Patient number 906 , 22,female, Kolara,  Contact tracing is underway  
+*Patient number 905 , 36, male, Gadag,  a travel history to Ahmedabad  
+*Patient number 904 , 4,female, Hassan,  a travel history to Mumbai  
+*Patient number 903 , 45, male, Hassan,  a travel history to Mumbai  
+*Patient number 902 , 7,female, Hassan,  a travel history to Mumbai  
+*Patient number 901 , 27,female, Hassan,  a travel history to Mumbai 
+*Patient number 900 , 36, male, Hassan,  a travel history to Mumbai 
+*Patient number 899 , 80,female, Bagalakote,  a travel history to Ahmedabad
+Patient number 898 , 29, male, Bagalakote,  a travel history to Ahmedabad  
+*Patient number 897 , 18, male, Bagalakote,  a travel history to Ahmedabad 
+*Patient number 896 , 20, male, Bagalakote,  a travel history to Ahmedabad  
+*Patient number 895 , 32, male, Bagalakote,  a travel history to Ahmedabad  
+*Patient number 894 , 17, male, Bagalakote,  a travel history to Ahmedabad 
+*Patient number 893 , 30, male, Bagalakote,  a travel history to Ahmedabad  
+*Patient number 892 , 30, male, Bidar,  Officials say he visited a containment zone in Bidar 
+*Patient number 891 , 23, male, Bidar,  Officials say he visited a containment zone in Bidar 
+*Patient number 890 , 38,female, Bengaluru Urban,  contact of P-454  
+*Patient number 889 , 38,female, Bengaluru Urban,  contact of P-454 
+*Patient number 888 , 33,female, Bengaluru Urban,  contact of P-454  
+*Patient number 887 , 27, male, Dharwad,  a travel history to Ahmedabad 
+*Patient number 886 , 20, male, Dharwad,  a travel history to Ahmedabad  
+*Patient number 885 , 19, male, Dharwad,  a travel history to Ahmedabad  
+*Patient number 884 , 18, male, Dharwad,  a travel history to Ahmedabad 
+*Patient number 883 , 26, male, Dharwad,  a travel history to Ahmedabad 
+*Patient number 882 , 70, male, Dharwad,  a travel history to Ahmedabad 
+*Patient number 881 , 25, male, Dharwad,  a travel history to Ahmedabad 
+*Patient number 880 , 31, male, Dharwad,  a travel history to Ahmedabad 
+*Patient number 879 , 55, male, Dharwad,  a travel history to Ahmedabad 
+*Patient number 878 , 50,female, Dakshina Kannada,  contact of P-507  
+*Patient number 877 , 26, male, Dakshina Kannada,  contact of P-507 
+*Patient number 876 , 34, male, Bagalakote,  a travel history to Ahmedabad 
+*Patient number 875 , 19, male, Bagalakote,  a travel history to Ahmedabad 
+*Patient number 874 , 19, male, Bagalakote,  a travel history to Ahmedabad 
+*Patient number 873 , 21, male, Bagalakote,  a travel history to Ahmedabad 
+*Patient number 872 , 33, male, Bagalakote,  a travel history to Ahmedabad 
+*Patient number 871 , 14, male, Bagalakote,  a travel history to Ahmedabad 
+*Patient number 870 , 16, male, Bagalakote,  a travel history to Ahmedabad 
+*Patient number 869 , 28, male, Mandaya,  a travel history to Mumbai  
+*Patient number 868 , 38, male, Yadagiri,  a travel history to Ahmedabad  
+*Patient number 867 , 33,female, Yadagiri,  a travel history to Ahmedabad  
+*Patient number 866 , 14, male, Kalaburgi, and contact of P-529  
+*Patient number 865 , 55, male, Bagalakote,  case of Influenza Like Illness (ILI)  
+*Patient number 864 , 46, male, Chikkaballapura,  contact of P-790  
+*Patient number 863 , 30, male, Bellary,  Contact tracing is underway  
+*Patient number 862 , 38, male, Mandaya,  a travel history to Mumbai  
+*Patient number 861 , 30,female, Hassan,  a travel history to Mumbai 
+*Patient number 860 , 26, male, Bengaluru Urban,  contact of P-796 
+*Patient number 859 , 20,female, Ananthapura Andhra Praedsh,  contact of P-796 
+*Patient number 858 , 27, male, Bidar,  contact of P-644  
+*Patient number 857 , 50, male, Bidar,  contact of P-644  
+*Patient number 856 , 20,female, Vijayapura,  contact of P-511  
+*Patient number 855 , 28, male, Badami Bagalakote, contact of P-688 
+*Patient number 854 , 20, male, Banahatti Bagalakote,  a travel history to Ahmedabad 
+*Patient number 853 , 26, male, Shiggavi Haveri, with a travel history to Mumbai  
+*Patient number 852 , 56,female, Davanagere,  contact of P-667  
+*Patient number 851 , 30,female, Davanagere,  contact of P-663 
+*Patient number 850 , 33, male, Davanagere, contact of P-662 
+*Patient number 849 , 38, male, Kalaburgi,  Contact tracing is on  
+*Patient number 848 , 35, male, Kalaburgi,  case of Influenza Like Illness (ILI) 
+*Patient number 847 , 22, male, Davanagere,  a travel history to Ajmer  
+*Patient number 846 , 56,female, Bengaluru Urban,  case of SARI  
+*Patient number 845 , 6, male,Belagavi,  a travel history to Ajmer  
+*Patient number 844 , 3, male,Belagavi,  a travel history to Ajmer  
+*Patient number 843 , 8,female,Belagavi,  a travel history to Ajmer  
+*Patient number 842 , 27,female,Belagavi,   a travel history to Ajmer  
+*Patient number 841 , 14, male,Belagavi,  a travel history to Ajmer  
+*Patient number 840 , 12, male,Belagavi,  a travel history to Ajmer  
+*Patient number 839 , 75,female, Bagalakote, a travel history to Ajmer  
+*Patient number 838 , 22, male, Bagalakote,  a travel history to Ajmer  
+*Patient number 837 , 12,female, Bagalakote,  a travel history to Ajmer  
+*Patient number 836 , 8,female, Bagalakote,  a travel history to Ajmer  
+*Patient number 835 , 30,female, Bagalakote,  a travel history to Ajmer  
+*Patient number 834 , 50,female,Belagavi,  a travel history to Ajmer  
+*Patient number 833 , 46,female,Belagavi,   a travel history to Ajmer  
+*Patient number 832 , 3,female,Belagavi,   a travel history to Ajmer  
+*Patient number 831 , 25,female,Belagavi,   a travel history to Ajmer  
+*Patient number 830 , 60,female,Belagavi,  a travel history to Ajmer  
+*Patient number 829 , 29, male,Belagavi,  a travel history to Ajmer  
+*Patient number 828 , 56,female,Belagavi,  a travel history to Ajmer  
+*Patient number 827 , 20, male,Belagavi,  a travel history to Ajmer  
+*Patient number 826 , 63, male,Belagavi,  a travel history to Ajmer  
+*Patient number 825 , 40,female,Belagavi,  a travel history to Ajmer  
+*Patient number 824 , 14,female,Belagavi,  a travel history to Ajmer  
+*Patient number 823 , 10, male,Belagavi,  a travel history to Ajmer  
+*Patient number 822 , 60,female,Belagavi,  a travel history to Ajmer  
+*Patient number 821 , 17,female,Belagavi,   a travel history to Ajmer  
+*Patient number 820 , 38, male,Belagavi,   a travel history to Ajmer  
+*Patient number 819 , 2,female, Bagalakote,  a travel history to Ajmer  
+*Patient number 818 , 29,female, Bagalakote,  a travel history to Ajmer  
+*Patient number 817 , 50,female,Belagavi,  a travel history to Ajmer  
+*Patient number 816 , 33, male, Bagalakote,  a travel history to Ajmer  
+*Patient number 815 , 20, male, Shivamogga,  a travel history to Ahmedabad  
+*Patient number 814 , 27, male, Shivamogga,  a travel history to Ahmedabad  
+*Patient number 813 , 25, male, Shivamogga,  a travel history to Ahmedabad  
+*Patient number 812 , 43, male, Shivamogga,  a travel history to Ahmedabad  
+*Patient number 811 , 56, male, Shivamogga,  a travel history to Ahmedabad  
+*Patient number 810 , 18, male, Shivamogga,  a travel history to Ahmedabad  
+*Patient number 809 , 65, male, Shivamogga,  a travel history to Ahmedabad  
+*Patient number 808 , 65, male, Shivamogga,  a travel history to Ahmedabad 
+*Patient number 807 , 72, male, Kalaburgi,   contact of P -604 
+*Patient number 806 , 30, male, Kalaburgi,   a travel history to Maharashtra  
+*Patient number 805 , 35, male, Kalaburgi,  case of SARI  
+*Patient number 804 , 22, male, Chikkaballapura,   contact of P -790 
+*Patient number 803  , 60, male, Bhatkal,  contact of P-659 
+*Patient number 802  , 31, male, Bhatkal,  contact of P-659 
+*Patient number 801 , 21,female, Bhatkal,  contact of P-659  
+*Patient number 800 , 42, male, Bhatkal,  contact of P-659  
+*Patient number 799 , 16, male, Bhatkal,  contact of P-659  
+*Patient number 798 , 15, male, Bhatkal,  contact of P-659 
+*Patient number 797 , 50,female, Bhatkal,  contact of P -659 
+*Patient number 796 , 60, male, Bengaluru Urban,  case of Influenza Like Illness (ILI)  He gobyebye on May 14  
+*Patient number 795 , 29, male, Bengaluru Urban, Officials say he visited a containment zone (Ward-135 )
+*Patient number 794 , 38, male, Tumkuru,  a travel history to Ahmedabad 
+*Patient number 793 , 27, male, Tumkuru,  a travel history to Ahmedabad 
+*Patient number 792 , 40, male, Tumkuru,  a travel history to Ahmedabad 
+*Patient number 791 , 32,female, Bhatkal,  contact of P-750 
+*Patient number 790 , 71, male, Chikkaballapura, Contact Under Tracing 
+*Patient number 789 , 17, male, Chitradurga,  a travel history to Ahmedabad  
+*Patient number 788 , 26, male, Chitradurga,  a travel history to Ahmedabad  
+*Patient number 787 , 34, male, Chitradurga,  a travel history to Ahmedabad  
+*Patient number 786 , 23,female, Bantawal,  contact of P-659 
+*Patient number 785 , 17,female, Bantawal,  contact of P-659 
+*Patient number 784 , 2 , male, Bantawal,  contact of P-659 
+*Patient number 783 , 68, male, Bantawal,  contact of P -740 
+*Patient number 782 , 50,female, Bantawal,  contact of P -659 
+*Patient number 781 , 65, male, Bantawal,  contact of P -659 
+*Patient number 780 , 3 , male, Bantawal,  contact of P -659 
+*Patient number 779 , 70,female, Bantawal,  contact of P -578 
+*Patient number 778 , 60,female, Bantawal,  contact of P -578 
+*Patient number 777 , 30, male, Bantawal,  contact of P -578 
+*Patient number 776 , 48, male, Davanagere,   contact of P -553 
+*Patient number 775 , 31,female, Bengaluru Urban,  contact of P -449 
+*Patient number 774 , 19,female, Bengaluru Urban, contact of P -454 
+*Patient number 773 , 46, male, Bengaluru Urban,  contact of P -454 
+*Patient number 772 , 30,female, Bidar, contact Under Tracing  
+*Patient number 771 , 12,female, Bidar,  contact of P -648 
+*Patient number 770 , 30, male, Bidar,   a travel history to Ahmedabad  
+*Patient number 769 , 11,female, Vijayapura,  contact of P-510  
+*Patient number 768 , 37,female, Bengaluru Urban,  contact of P-419    
+*Patient number 767 , 24, male, Bengaluru Urban,  contact of P-419  
+*Patient number 766 , 40, male, Bengaluru Urban,  contact of P-419  
+*Patient number 765 , 20,female, Bengaluru Urban,  Officials say he visited a containment zone (Ward-135 ) 
+*Patient number 764 , 45, male, Tumkuru,  Officials say he visited a containment zone (Ward-135 ) 
+*Patient number 763 , 40,female, Bengaluru Urban,  contact of P-454  
+*Patient number 762 , 20,female, Bengaluru Urban,   contact of P-454  
+*Patient number 761 , 55,female, Bengaluru Urban,  contact of P-449    
+*Patient number 760 , 60, male, Bengaluru Urban,  contact of P-419  
+*Patient number 759 , 36, male, Bengaluru Urban,  contact of P-419  
+*Patient number 758 , 26, male, Davanager,  contact of P-651  
+*Patient number 757 , 24, male, Davanager,  contact of P-651  
+*Patient number 756 , 24, male, Davanager,  contact of P-651  
+*Patient number 755 , 45, male, Davanager,  contact of P-651  
+*Patient number 754 , 20,female, Chitradurga,  contact of P-651 
+*Patient number 753 , 64, male, Chitradurga,  a travel history to Ahmedabad  
+*Patient number 752 , 64, male, Chitradurga,  a travel history to Ahmedabad 
+*Patient number 751 , 64, male, Chitradurga,  a travel history to Ahmedabad  
+*Patient number 750 , 22,female, Bhatkal,  contact of P-659  
+*Patient number 749 , 60, male, Bhatkal,  contact of P-659  
+*Patient number 748 , 3,female, Bhatkal,  contact of P-659  
+*Patient number 747 , 1,female, Bhatkal,  contact of P-659  
+*Patient number 746 , 83, male, Bhatkal,  contact of P-659  
+*Patient number 745 , 12,female, Bhatkal,  contact of P-659  
+*Patient number 744 , 75,female, Bhatkal,  contact of P-659  
+*Patient number 743 , 33, male, Bhatkal,  contact of P-659  
+*Patient number 742 , 39,female, Bhatkal,  contact of P-659  
+*Patient number 741 , 11,female, Bhatkal,  contact of P-659  
+*Patient number 740 , 18,female, Bhatkal,  contact of P-659  
+*Patient number 739 , 25,female, Bhatkal,  contact of P-659  
+*Patient number 738 , 34,female, Bengaluru Urban,  Officials say he visited a containment zone (Ward-135)
+*Patient number 737 , 38,female, Davanagere,  contact of P-533  
+*Patient number 736 , 8, male, Davanagere,  contact of P-533  
+*Patient number 735 , 13,female, Davanagere,  contact of P-533  
+*Patient number 734 , 48, male, Davanagere,  contact of P-533  
+*Patient number 733 , 3,female, Davanagere,  contact of P-533 
+*Patient number 732 , 32,female, Davanagere,  contact of P-533  
+*Patient number 731 , 36, male, Davanagere,  contact of P-533  
+*Patient number 730 , 9, male, Davanagere,  contact of P-533  
+*Patient number 729 , 6, male, Davanagere,  contact of P-533  
+*Patient number 728 , 18,female, Davanagere,  contact of P-533  
+*Patient number 727 , 27,female, Davanagere,  contact of P-556  
+*Patient number 726 , 18,female, Davanagere,  contact of P-556  
+*Patient number 725 , 20, male, Davanagere,  contact of P-556  
+*Patient number 724 , 10, male, Davanagere,  contact of P-556  
+*Patient number 723 , 20, male, Kudachi Belagavi,  contact of P-575 
+*Patient number 722 , 23, male, Hirebagewadi Belagavi, contact of P-539 & P-552  
+*Patient number 721 , 20,female, Hirebagewadi Belagavi,  contact of P-547 
+*Patient number 720 , 38,female, Hirebagewadi Belagavi,  contact of P-548 
+*Patient number 719 , 26, male, Hirebagewadi Belagavi,  contact of P-547 
+*Patient number 718 , 45, male, Hirebagewadi Belagavi,  contact of P-547 
+*Patient number 717 , 21,female, Hirebagewadi Belagavi,  contact of P-547 
+*Patient number 716 , 16,female, Hirebagewadi Belagavi,  contact of P-552 
+*Patient number 715 , 20, male, Hirebagewadi Belagavi,  contact of P-485 & P-496  
+*Patient number 714 , 30,female, Hirebagewadi Belagavi,  contact of P-552 
+*Patient number 713 , 58, male, Hirebagewadi Belagavi,  contact of of P-485 & P-483  
+*Patient number 712 , 37,female, Ballari,  Contact tracing is on  
+*Patient number 711 , 25, male, Bengaluru Urban,  contact of P-653  
+*Patient number 710 , 40, male, Bengaluru Urban,  contact of P-653  
+*Patient number 709 , 19, male, Bengaluru Urban,  contact of P-653  
+*Patient number 708 , 22, male, Bengaluru Urban,  contact of P-653 
+*Patient number 707 , 35,female, Bengaluru Urban,  Officials say he visited a containment zone (Ward-135)
+*Patient number 706 , 23, male, Bengaluru Urban,  Officials say he visited a containment zone (Ward-135)
+*Patient number 705 , 35, male, Dharawada,  case of Influenza Like Illness (ILI)  
+*Patient number 704 , 19,female, Badami Bagalakote,  contact of P-607  
+*Patient number 703 , 80,female, Badami Bagalakote,  contact of P-607  
+*Patient number 702 , 55,female, Badami Bagalakote,  contact of P-607  
+*Patient number 701 , 49,female, Bengaluru Urban,  case of Influenza Like Illness (ILI)  
+*Patient number 700 , 13,female, Hirebagewadi Belagavi,  contact of P-364 
+*Patient number 699 , 13,female, Kalaburgi,  contact of P-641  
+*Patient number 698 , 36,female, Kalaburgi,  contact of P-641  
+*Patient number 697 , 35, male, Kalaburgi,  contact of P-642 
+*Patient number 696 , 40,female, Davanagere,  case of Influenza Like Illness (ILI)  
+*Patient number 695 , 53,female, Davanagere,  case of Influenza Like Illness (ILI)  
+*Patient number 694 , 55,female, Davanagere,  case of SARI  She gobyebye on May 7  
+*Patient number 693 , 35,female, Vijayapura,  contact of P-221  
+*Patient number 692 , 16,female, Badami Bagalakote,  contact of P-607 
+*Patient number 691 , 30, male, Badami Bagalakote,  contact of P-607 
+*Patient number 690 , 32, male, Badami Bagalakote,  contact of P-607 
+*Patient number 689 , 10, male, Badami Bagalakote,  contact of P-607 
+*Patient number 688 , 23, male, Badami Bagalakote,  contact of P-607 
+*Patient number 687 , 40, male, Badami Bagalakote,  contact of P-607 
+*Patient number 686 , 15, male, Badami Bagalakote,  contact of P-607 
+*Patient number 685 , 30,female, BadamiBagalakote, contact of P-607 
+*Patient number 684 , 47, male, Badami Bagalakote,  contact of P-607 
+*Patient number 683 , 26, male, Badami Bagalakote,  contact of P-607 
+*Patient number 682 , 55,female, Badami Bagalakote,  contact of P-607 
+*Patient number 681 , 45, male, Badami Bagalakote, contact of P-607 
+*Patient number 680 , 18,female, Badami Bagalakote,  case of Influenza Like Illness (ILI) 
+*Patient number 679 , 52, male, Kalaburgi,  contact of P-610 
+*Patient number 678 , 25, male, Bengaluru Urban,  contact of P-654 
+*Patient number 677 , 40,female, Bengaluru Urban,  contact of P-654 
+*Patient number 676 , 16,female, Bantwal Dakshina Kannada,  contact of P-390  
+*Patient number 675 , 35,female, Dakshina Kannada,  contact of P-536 
+*Patient number 674 , 11,female, Dakshina Kannada,  contact of P-536 
+*Patient number 673 , 26, male, Dharwad,  a travel history to Mumbai 
+*Patient number 672 , 40, male, Savanur Haveri,  contact of P-639  
+*Patient number 671 , 5, male, Davanagere,  contact of P-581 
+*Patient number 670 , 42,female, Davanagere,  contact of P-581 
+*Patient number 669 , 27, male, Davanagere,  contact of P-581 
+*Patient number 668 , 19,female, Davanagere,  contact of P-581 
+*Patient number 667 , 15,female, Davanagere,  contact of P-581 
+*Patient number 666 , 36,female, Davanagere,  contact of P-581 
+*Patient number 665 , 52,female, Davanagere,  contact of P-556 
+*Patient number 664 , 48, male, Davanagere,  contact of P-581 
+*Patient number 663 , 51, male, Davanagere,  contact of P-556 
+*Patient number 662 , 50,female, Davanagere,  contact of P-556  She gobyebye on May 5  
+*Patient number 661 , 25, male, Davanagere,  contact of P-556 
+*Patient number 660 , 30, male, Davanagere,  contact of P-556 
+*Patient number 659 , 18,female, Bhatkal,  case of Influenza Like Illness (ILI)  
+*Patient number 658 , 51, male, Dakshina Kannada,  contact of P-536 
+*Patient number 657 , 43, male, Ballari, and with a travel history to Uttarakhand 
+*Patient number 656 , 29, male, Bagalakote,  contact of P-367 & P-368  discharj jojo
+*Patient number 655 , 29,female, Bagalakote,  contact of P-367 & P-368  She discharj jojo
+*Patient number 654 , 45, male, Bengaluru Urban,  case of Influenza Like Illness (ILI) 
+*Patient number 653 , 34, male, Bengaluru Urban,  contact of P-420  
+*Patient number 652 , 30,female, Bengaluru Urban,  Contact tracing is on  She discharj jojo
+*Patient number 651 , 48,female, Davanagere,  contact of P-533  
+*Patient number 650 , 40, male, Bengaluru Urban,  Contact tracing is on  discharj jojo
+*Patient number 649 , 60, male, Bidar,  contact of P-590 
+*Patient number 648 , 22, male, Bidar,  contact of P-590 
+*Patient number 647 , 72,female, Bidar,  contact of P-590 
+*Patient number 646 , 16, male, Bidar,  contact of P-590 
+*Patient number 645 , 50,female, Bidar,  contact of P-590 
+*Patient number 644 , 46,female, Bidar,  contact of P-590 
+*Patient number 643 , 35,female, Bidar,  contact of P-590 
+*Patient number 642 , 37, male, Chincholi Kalaburgi,  a travel history to Hyderabad Telangana  
+*Patient number 641 , 36,female, Kalaburagi,  contact of P-604  
+*Patient number 640 , 62,female, Vijayapura,  contact of P-228  She gobyebye on May 5  
+*Patient number 639 , 32, male, Savanuru Haveri,  a travel history to Mumbai  
+*Patient number 638 , 19,female, Mandaya,  a travel history to Mumbai  She discharj jojo
+*Patient number 637 , 20,female, Mandaya,  a travel history to Mumbai  
+*Patient number 636 , 30, male, Chikkaballapura,  contact of P-586  
+*Patient number 635 , 11, male, Davanagere,  contact of P-533  discharj jojo
+*Patient number 634 , 42, male, Davanagere,  contact of P-533  
+*Patient number 633 , 17, male, Davanagere,  contact of P-533  
+*Patient number 632 , 6, male, Davanagere,  contact of P-533  
+*Patient number 631 , 22,female, Davanagere,  contact of P-533  
+*Patient number 630 , 20,female, Davanagere,  contact of P-533  
+*Patient number 629 , 34,female, Davanagere,  contact of P-533  
+*Patient number 628 , 62,female, Davanagere,  contact of P-533  
+*Patient number 627 , 33, male, Davanagere,  contact of P-533  
+*Patient number 626 , 25, male, Davanagere,  contact of P-533  
+*Patient number 625 , 27, male, Davanagere,  contact of P-533  
+*Patient number 624 , 49,female, Davanagere,  contact of P-533 
+*Patient number 623 , 38, male, Davanagere,  case of Influenza Like Illness (ILI)  
+*Patient number 622 , 7, male, Davanagere,  contact of P-533  
+*Patient number 621 , 12,female, Davanagere,  contact of P-533
+Patient number 620 , 32,female, Davanagere,  contact of P-533 
+*Patient number 619 , 35, male, Davanagere,  contact of P-533  
+*Patient number 618 , 32,female, Davanagere,  contact of P-533 
+*Patient number 617 , 38, male, Davanagere,  contact of P-533  discharj jojo
+*Patient number 616 , 52, male, Davanagere,  contact of P-533  discharj jojo
+*Patient number 615 , 30, male, Davanagere,  contact of P-533  
+*Patient number 614 , 45,female, Bengaluru Urban,  contact of P-350  
+*Patient number 613 , 24,female, Bengaluru Urban,   contact of P-350 
+*Patient number 612 , 45,female, Bengaluru Urban,  contact of P-350 
+*Patient number 611 , 22, male, Kalaburgi,  Contact under investigation  
+*Patient number 610 , 78, male, Kalaburgi,  case of Influenza Like Illness (ILI)  discharj jojo
+*Patient number 609 , 35,female, Kalaburgi,  case of Influenza Like Illness (ILI) 
+*Patient number 608 , 24, male, Bengaluru Urban,  Officials say he visited a containment zone (Ward-135 )
+*Patient number 607 , 23,female, Badami Bagalakote,  case of SARI  
+*Patient number 606 , 60,female,Mudhol Bagalakote,  contact of P-380  
+*Patient number 605 , 68, male, Mudhol Bagalakote,   contact of P-380  
+*Patient number 604 , 41, male, Kalaburgi,  contact of P-565  
+*Patient number 603 , 54, male, Kalaburgi,  contact of P-532  
+*Patient number 602 , 13,female, Kalaburgi,  contact of P-532  
+*Patient number 601 , 30, male, Bengaluru Urban,  contact of P-565  
+*Patient number 600 , 26,female, Bengaluru Urban,  contact of P-565  
+*Patient number 599 , 38,female, Bengaluru Urban,  contact of P-565  
+*Patient number 598 , 32,female, Bengaluru Urban,  contact of P-444 
+*Patient number 597 , 45,female, Bagalkot,  contact of P-381  discharj jojo
+*Patient number 596 , 23, male,Belagavi,  contact of P-128  
+*Patient number 595 , 45, male, Vijayapura,  contact of P-221  discharj jojo
+*Patient number 594 , 22, male, Vijayapura,  contact of P-221 
+*Patient number 593 , 54, male, Chikkaballapura,  contact of P-250 
+*Patient number 592 , 29,female, Tumkuru,  contact of P-535 & 553  She discharj jojo
+*Patient number 591 , 40, male, Tumkuru,  contact of P-535 & 553  discharj jojo
+*Patient number 590 , 82, male, Bidar,  case of SARI  He gobyebye on April 28 
+*Patient number 589 , 57, male, Hubli Dharwad,  case of Influenza Like Illness (ILI) 
+*Patient number 588 , 20,female, Kalaburgi,  contact of P-425  
+*Patient number 587 , 56, male, Kalaburgi,  case of SARI  
+*Patient number 586 , 40,female, Chikkaballapura,  contact of P-250  She discharj jojo
+*Patient number 585 , 16, male, Davanagere,  contact of P-533  discharj jojo
+*Patient number 584 , 18,female, Davanagere,  contact of P-556  She discharj jojo
+*Patient number 583 , 1, male, Davanagere,  contact of P-556  discharj jojo
+*Patient number 582 , 34, male, Davanagere,  contact of P-556 
+*Patient number 581 , 26,female, Davanagere,  contact of P-556 
+*Patient number 580 , 31,female, Davanagere,  contact of P-556  She discharj jojo
+*Patient number 579 , 62, male, Dakshina Kannada,  contact of P-536 
+*Patient number 578 , 69, male, Dakshina Kannada,  contact of P-390  discharj jojo
+*Patient number 577 , 54, male, Vijayapura, contact of P-510 
+*Patient number 576 , 50, male, Raibhag Belagavi, contact of P-301  
+*Patient number 575 , 30,female, Raibhag Belagavi, contact of P-301 
+*Patient number 574 , 55, male, Raibhag Belagavi, contact of P-301 
+*Patient number 573 , 12, male, Malavalli Mandaya, contact of P-179  discharj jojo
+*Patient number 572 , 13, male, Malavalli Mandaya, contact of P-179  discharj jojo
+*Patient number 571 , 32,female, Malavalli Mandaya, contact of P-179  She discharj jojo
+*Patient number 570 , 19, male, Malavalli Mandaya, contact of P-179  discharj jojo
+*Patient number 569 , 30,female, Mandaya,  contact of P-566 & P-567 & P-568  She discharj jojo
+*Patient number 568 , 27, male, Mandaya,  a travel history to Mumbai  
+*Patient number 567 , 24,female, Mandaya,  a travel history to Mumbai  She discharj jojo
+*Patient number 566 , 25, male, Mandaya,  a travel history to Mumbai 
+*Patient number 565 , 64,female, Bengaluru Urban,  case of Influenza Like Illness (ILI)  
+*Patient number 564 , 35, male, Bengaluru Urban, contact of P-281 
+*Patient number 563 , 13,female, Bengaluru Urban, contact of P-292 
+*Patient number 562 , 16,female, Bengaluru Urban, contact of P-292 
+*Patient number 561 , 4,female, Bengaluru Urban, contact of P-292 
+*Patient number 560 , 60,female, Bengaluru Urban, contact of P-292 
+*Patient number 559 , 15, male, Bengaluru Urban, contact of P-292 
+*Patient number 558 , 35,female, Kalaburgi, contact of P-314  She discharj jojo
+*Patient number 557 , 63, male, Bengaluru Urban,  case of SARI  He gobyebye on May 2  
+*Patient number 556 , 69, male, Davanagere, case of SARI  He died due to cardiac arrest  
+*Patient number 555 , 28, male, Bengaluru Urban,  Officials say he visited a containment zone (Ward-135 )  discharj jojo
+*Patient number 554 , 20, male, Bengaluru Urban,  Officials say he visited a containment zone (Ward-135 )
+*Patient number 553 , 65,female, Tumkuru, contact of P-535 
+*Patient number 552 , 36, male, Hirebagewadi Belagavi, contact of P-496  
+*Patient number 551 , 08,female, Hukkeri Belagavi, contact of P-293  She discharj jojo
+*Patient number 550 , 36,female, Hirebagewadi Belagavi, contact of P-486 
+*Patient number 549 , 16, male, Hirebagewadi Belagavi, contact of P-486 
+*Patient number 548 , 43, male, Hirebagewadi Belagavi, contact of P-484 
+*Patient number 547 , 27,female, Hirebagewadi Belagavi, contact of P-496 & 483
+*Patient number 546 , 50, male, Hirebagewadi Belagavi, contact of P-494 
+*Patient number 545 , 48,female, Hirebagewadi Belagavi, contact of P-494 
+*Patient number 544 , 18, male, Hirebagewadi Belagavi, contact of P-496 
+*Patient number 543 , 24,female, Hirebagewadi Belagavi, contact of P-486 
+*Patient number 542 , 75,female, Hukkeri Belagavi, contact of P-293  She discharj jojo
+*Patient number 541 , 9, male, Hukkeri Belagavi, contact of P-293  discharj jojo
+*Patient number 540 , 27, male, Hirebagewadi Belagavi, contact of P-483 
+*Patient number 539 , 24,female,Belagavi, contact of P-496 & P-483 & P-484 
+*Patient number 538 , 33,female, Vijayapura, contact of P-221 
+*Patient number 537 , 62, male, Vijayapura, contact of P-221  discharj jojo
+*Patient number 536 , 58,female, Dakshina Kannada, contact of P-501  She gobyebye on May 13  
+*Patient number 535 , 73, male, Tumakuru,  case of SARI gobyebye on April 29 
+*Patient number 534 , 26, male, Nanjanagudu Mysuru, contact of P-346 
+*Patient number 533 , 35,female, Davanagere,  case of Influenza Like Illness(ILI)
+Patient number 532 , 12,female, Kalaburgi,  contact of P-425 
+*Patient number 531 , 17,female, Kalaburgi,  contact of P-425 
+*Patient number 530 , 20, male, Kalaburgi,  contact of P-205 
+*Patient number 529 , 40,female, Kalaburgi,  contact of P-425  She discharj jojo
+*Patient number 528 , 22, male, Kalaburgi,  contact of P-205 
+*Patient number 527 , 14,female, Kalaburgi,  contact of P-425 
+*Patient number 526 , 28, male, Kalaburgi,  contact of P-515 
+*Patient number 525 , 5,female, Kalaburgi,  contact of P-365  She discharj jojo
+*Patient number 524 , 12, male, Hukkeri Belagavi, contact of P-293  
+*Patient number 523 , 22, male, Jamakhandi Bagalakote, contact of P-381  discharj jojo
+*Patient number 522 , 11, male, Jamakhandi Bagalakote, contact of P-456  discharj jojo
+*Patient number 521 , 20,female, Jamakhandi Bagalakote, contact of P-381  She discharj jojo
+*Patient number 520 , 22,female, Kalaburgi, contact of P-425 
+*Patient number 519 , 45,female, Kalaburgi, contact of P-425 
+*Patient number 518 , 28,female, Kalaburgi, contact of P-425 
+*Patient number 517 , 43, male, Kalaburgi, contact of P-425 
+*Patient number 516 , 40,female, Kalaburgi, contact of P-425 
+*Patient number 515 , 55, male, Kalaburgi, contact of P-425  discharj jojo
+*Patient number 514 , 75, male, Gadag,  case of SARI 
+*Patient number 513 , 48, male, Bengaluru Urban,  Officials say he visited a containment zone (Ward-135 )
+*Patient number 512 , 22,female, Mallavalli Mandaya, contact of P-371  She discharj jojo
+*Patient number 511 , 27, male, Vijayapura, and contact tracing is on  
+*Patient number 510 , 45, male, Vijayapura,  contact of P-221  
+*Patient number 509 , 21,female, Jamkhandi Bagalakote, contact of P-456  She discharj jojo
+*Patient number 508 , 32,female, Jamkhandi Bagalakote, contact of P-456  She discharj jojo
+*Patient number 507 , 80,female, Dakshina Kannada, contact of P-432  She gobyebye on May 14  
+*Patient number 506 , 45, male, Dakshina Kannada, contact of P-432 & P-507 
+*Patient number 505 , 50, male, Nagamalegala Mandaya,  a travel history to Mumbai  discharj jojo
+*Patient number 504 , 13, male, Bengaluru,  case of Influenza Like Illness (ILI)   discharj jojo
+*Patient number 503 , 7, male, Kalaburgi,  contact of P-425  
+*Patient number 502 , 65,female, Kalaburgi, contact of P-422  
+*Patient number 501 , 47,female, Panemangalore Dakshina Kannada, contact of P-432  She discharj jojo
+*Patient number 500 , 66,female, Bengaluru,  contact of P-465  
+*Patient number 499 , 27, male, Bengaluru,  contact of P-465  
+*Patient number 498 , 27, male, Bengaluru,  contact of P-465  
+*Patient number 497 , 50,female, Nanjangudu Mysuru, contact of P-382  She discharj jojo
+*Patient number 496 , 30,female, Hirebagewadi Belagavi, contact of P-128  She discharj jojo
+*Patient number 495 , 8, male, Hirebagewadi Belagavi, contact of P-128  discharj jojo
+*Patient number 494 , 20, male, Hirebagewadi Belagavi, contact of P-128  discharj jojo
+*Patient number 493 , 27,female, Bengaluru,  contact of P-419 
+*Patient number 492 , 90, male, Bengaluru,  contact of P-419 
+*Patient number 491 , 6, male, Bengaluru,  contact of P-419  discharj jojo
+*Patient number 490 , 52,female, Bengaluru,  contact of P-419  She discharj jojo
+*Patient number 489 , 33,female, Bantawala Dakshina Kannada, contact of P-409  She discharj jojo
+*Patient number 488 , 18, male, Chikkaballapura,  a travel history to Hindupura & Anantapura AP 
+*Patient number 487 , 39,female, Hirebagewadi Belagavi, contact of P-128  She discharj jojo
+*Patient number 486 , 42,female, Hirebagewadi Belagavi, contact of P-128  She discharj jojo
+*Patient number 485 , 55,female, Hirebagewadi Belagavi, contact of P-128  She discharj jojo
+*Patient number 484 , 80,female, Hirebagewadi Belagavi, contact of P-128 
+*Patient number 483 , 38, male, Hirebagewadi Belagavi, contact of P-128 
+*Patient number 482 , 45, male, Hirebagewadi Belagavi, contact of P-128  discharj jojo
+*Patient number 481 , 37, male, Mandaya, contact of P-78  discharj jojo
+*Patient number 480 , 28, male, Bengaluru Urban, contact of P-419 He discharj jojo
+*Patient number 479 , 19,female, Bengaluru Urban, contact of P-419 
+*Patient number 478 , 17, male, Bengaluru Urban, contact of P-419  discharj jojo
+*Patient number 477 , 21, male, Bengaluru Urban, contact of P-419  discharj jojoHe discharj jojo
+*Patient number 476 , 37, male, Bengaluru Urban, contact of P-419  discharj jojo He discharj jojo
+*Patient number 475 , 34, male, Bengaluru Urban,  Officials say he visited one of the containment zones 
+*Patient number 474 , 44, male, Bengaluru,  contact of P-419  discharj jojo
+*Patient number 473 , 38, male, Bengaluru,  contact of P-419  discharj jojo
+*Patient number 472 , 58, male, Bengaluru,  contact of P-419  discharj jojo
+*Patient number 471 , 22, male, Bengaluru,  contact of P-419  discharj jojo
+*Patient number 470 , 20, male, Bengaluru,  contact of P-419  discharj jojo
+*Patient number 469 , 26, male, Bengaluru,  contact of P-419  discharj jojo
+*Patient number 468 , 14, male, Mudhul,  contact of P-380 
+*Patient number 467 , 27, male, Vijayapura,  contact of P-221 
+*Patient number 466 , 50, male, Bengaluru,  case of SARI died but cause of his death is non-corona
+*Patient number 465 , 45,female, Bengaluru,  case of SARI  She gobyebye on 26 04 2020
+*Patient number 464 , 60, male, Malavalli Mandaya, contact of P-179 
+*Patient number 463 , 15, male, Raibhag Belagavi, contact of P-148 
+*Patient number 462 , 24, male, Bengaluru,  contact of P-419 
+*Patient number 461 , 32, male, Bengaluru,  contact of P-419 
+*Patient number 460 , 31, male, Bengaluru,  contact of P-419  discharj jojo
+*Patient number 459 , 35, male, Bengaluru,  contact of P-419  discharj jojo
+*Patient number 458 , 26, male, Bengaluru,  contact of P-419 
+*Patient number 457 , 17, male, Vijayapura, contact of P-221 
+*Patient number 456 , 46, male, Jamkhandi Bagalakote,  case of Influenza Like Illnes (ILI)  discharj jojo
+*Patient number 455 , 28, male, Mudhol Bagalakote, contact of P-419  discharj jojo
+*Patient number 454 , 23, male, Bengaluru, contact of a Containment Zone -BBMP Ward-135  discharj jojo
+*Patient number 453 , 32, male, Bengaluru, contact of a Containment Zone-BBMP Ward-135 
+*Patient number 452 , 35, male, Bengaluru,  contact of a Containment Zone -BBMP Ward-135  discharj jojo
+*Patient number 451 , 39, male, Chikkaballapura,  contact of P-250  
+*Patient number 450 , 22, male, Bengaluru, contact of a Containment Zone -BBMP Ward-135 
+*Patient number 449 , 30, male, Bengaluru, nd a contact of a Containment Zone -BBMP Ward-135 
+*Patient number 448 , 10,female, Raibhag, Belagavi contact of P-150  She discharj jojo
+*Patient number 447 , 32, male, Tumakuru,  a travel history to Surat Gujarat  She discharj jojo
+*Patient number 446 , 49,female, Bengaluru,  case of Influenza Like Illness (ILI)  She discharj jojo
+*Patient number 445 , 32, male, Kalaburagi,  contact of P-413  discharj jojo
+*Patient number 444 , 41, male, Bengaluru Urban, contact of P-252 
+*Patient number 443 , 28,female, Malavalli Mandaya,  contact of P-179  She discharj jojo
+*Patient number 442 , 47, male, Mandaya,  contact of P-171 & P-371  discharj jojo
+*Patient number 441 , 24, male, Bengaluru Urban,  contact of P-419  discharj jojo
+*Patient number 440 , 43, male, Bengaluru Urban,  contact of P-419 
+*Patient number 439 , 37, male, Bengaluru Urban,  contact of P-419  discharj jojo
+*Patient number 438 , 25, male, Bengaluru Urban,  contact of P-419  discharj jojo
+*Patient number 437 , 30, male, Bengaluru Urban,  contact of P-419  discharj jojo
+*Patient number 436 , 40, male, Bengaluru Urban,  contact of P-419  discharj jojo
+*Patient number 435 , 22, male, Bengaluru Urban,  contact of P-419  discharj jojo
+*Patient number 434 , 30, male, Bengaluru Urban,  contact of P-419  discharj jojo
+*Patient number 433 , 30, male, Bengaluru Urban,  contact of P-419 
+*Patient number 432 , 78,female, Bantwala Dakshina Kannada,  contact of P-390  
+*Patient number 431 , 13,female, Hubli,  contact of P-236  She discharj jojo
+*Patient number 430 , 30,female, Hubli,  contact of P-236  She discharj jojo
+*Patient number 429 , 25,female, Vijayapura,  Contact tracing is on  She discharj jojo
+*Patient number 428 , 32, male, Vijayapura,  contact of P-221  discharj jojo
+*Patient number 427 , 32, male, Mysuru,  contact of P-52
+*Patient number 426 , 56, male, Mysuru,  contact of P-383 
+*Patient number 425 , 26,female, Kalaburagi,  contact of P-395  discharj jojo
+*Patient number 424 , 1, male, Kalaburagi, contact of P-395  discharj jojo
+*Patient number 423 , 35,female, Kalaburagi,  contact of P-393  She discharj jojo
+*Patient number 422 , 57, male, Kalaburagi,  case of SARI succummed to COVID-19 on April 27  
+*Patient number 421 , 46,female, Kalaburagi,  contact of P-222  She discharj jojo
+*Patient number 420 , 28,female, Bengaluru,  contact of P-208  She discharj jojo
+*Patient number 419 , 54, male, Bengaluru,  case of SARI  discharj jojo
+*Patient number 418 , 25,female,Belagavi, contact of P-293  She discharj jojo
+*Patient number 417 , 26, male, Nanjanagudu Mysuru, contact of P-52 
+*Patient number 416 , 26, male, Nanjanagudu Mysuru, contact of P-52 
+*Patient number 415 , 18,female, Vijayapura,  contact of P-306 
+*Patient number 414 , 80, male, Kalaburagi,  case of SARI gobyebye on Apr 21  
+*Patient number 413 , 61, male, Kalaburagi,  contact tracing is on  discharj jojo
+*Patient number 412 , 29, male, Kalaburagi,  case of Influenza Like Illness (ILI)  discharj jojo
+*Patient number 411 , 30,female, Vijayapura,  contact of P-306 
+*Patient number 410 , 18,female, Vijayapura,  contact of P-306 
+*Patient number 409 , 67,female, Dakshina Kannada,  case of SARI gobyebye on April 30
+*Patient number 408 , 27, male, Bidar, contact of P-117  discharj jojo
+*Patient number 407 , 14, male, Vijayapura, contact of P-221 
+*Patient number 406 , 38,female, Vijayapura, contact of P-221  She discharj jojo
+*Patient number 405 , 34,female, Vijayapura, contact of P-228  She discharj jojo
+*Patient number 404 , 10, male, Vijayapura, contact of P-221  discharj jojo
+*Patient number 403 , 47,female, Vijayapura, contact of P-362  She discharj jojo
+*Patient number 402 , 28, male, Vijayapura, contact of P-362 
+*Patient number 401 , 21, male, Vijayapura, contact of P-362  discharj jojo
+*Patient number 400 , 25,female, Vijayapura, contact of P-221  She discharj jojo
+*Patient number 399 , 27,female, Vijayapura, contact of P-221  
+*Patient number 398 , 36, male, Vijayapura, contact of P-221  
+*Patient number 397 , 7, male, Vijayapura, contact of P-221 
+*Patient number 396 , 24, male, Gadag, contact of P-370 
+*Patient number 395 , 19, male, Kalaburagi, contact of P-205  discharj jojo
+*Patient number 394 , 50, male, Kalaburagi, contact of P-177  discharj jojo
+*Patient number 393 , 30,female, Kalaburagi, contact of P-205  She discharj jojo
+*Patient number 392 , 13,female, Kalaburagi, contact of P-205  She discharj jojo
+*Patient number 391 , 17, male, Kalaburagi, contact of P-175  discharj jojo
+*Patient number 390 , 50,female, Bantwal Dakshina Kannada,  case of SARI (wife of P 325)  She gobyebye 
+*Patient number 389 , 30,female, Uppinangadi Dakshina Kannada, contact of P 325  She discharj jojo
+*Patient number 388 , 23,female, Nanjangud Mysuru, related to the pharma company contact of P 319 
+*Patient number 387 , 39, male, Nanjangud Mysuru,  related to the pharma company contact of P 52  discharj jojo
+*Patient number 386 , 20, male, Mysuru, with a travel history of Delhi  
+*Patient number 385 , 46, male, Mysuru, with a travel history of Delhi  discharj jojo
+*Patient number 384 , 28, male, Nanjangud Mysuru, contact of P 52  discharj jojo
+*Patient number 383 , 36, male, Nanjangud Mysuru, contact of P 52  discharj jojo
+*Patient number 382 , 30, male, Nanjangud Mysuru,contact of P 52  discharj jojo
+*Patient number 381 , 47, male, Jamakhandi Bagalkot, case of Influenza like illness  discharj jojo
+*Patient number 380 , 43, male, Mudhol Bagalkot, contact of P 263 
+*Patient number 379 , 43, male, Mudhol Bagalkot, contact of P 263  discharj jojo
+Patient number 378 , 21,female, Bengaluru, contact of P 167  She discharj jojo
+*Patient number 377 , 50,female, Bengaluru, contact of P 167 
+*Patient number 376 , 55,female, Bengaluru, contact of P 167  She discharj jojo
+*Patient number 375 , 26,female, Nanjangud Mysuru, conatact of P 267(wife)  
+*Patient number 374 , 42, male, Unknown,later his swab samples showed that he had COVID-19 contact of P 306 & P 308 gobyebye 
+*Patient number 373 , 32, male, Jamakhandi,  secondary contact of P 263  discharj jojo
+*Patient number 372 , 32, male, Mudhol Bagalkot, contact of P 263 
+*Patient number 371 , 39, male, Malavalli Mandaya, contact of P 134 & P 138  discharj jojo
+*Patient number 370 , 42, male, Gadag, contact of P 304 
+*Patient number 369 , 65, male, Mysuru,  case of SARI 
+*Patient number 368 , 48,female, Bagalkot, contact of P 186  She discharj jojo
+*Patient number 367 , 65, male, Bagalkot, contact of P 186  discharj jojo
+*Patient number 366 , 50, male, Nanjangud, contact of P 52 
+*Patient number 365 , 30, male, Nanjangud, contact of P 52 
+*Patient number 364 , 45, male, Hirebagewadi Belagavi, contact of P 128
+*Patient number 363 , 63, male, Hubballi, who used to work as a gatekeeper of a crematorium contact of P 236  discharj jojo
+*Patient number 362 , 60, male, Vijayapura, contact of P 221  discharj jojo
+*Patient number 361 , 16, male, Shahbad Kalaburgi, contact of P 174  discharj jojo
+*Patient number 360 , 34, male, Kalaburgi, contact of P 205  discharj jojo
+*Patient number 359 , 38, male, Belagavi,  contact of P-127  discharj jojo
+*Patient number 358 , 37, male, Belagavi,  contact of P-127  discharj jojo
+*Patient number 357 , 46, male, Belagavi,  contact of P-127 
+*Patient number 356 , 17, male, Belagavi,  contact of P-127  discharj jojo
+*Patient number 355 , 34, male, Belagavi,  contact of P-127  discharj jojo
+*Patient number 354 , 65,female, Bengaluru,  case of SARI  She discharj jojo
+*Patient number 353 , 21, male, Bengaluru,  contact of P-167 & P-168  discharj jojo
+*Patient number 352 , 28, male, Bengaluru,  contact of P-167 & P-168  discharj jojo
+*Patient number 351 , 23, male, Bengaluru,  contact of P-167 & P-168  discharj jojo
+*Patient number 350 , 32, male, Bengaluru,  contact of P-167 & P-168  discharj jojo
+*Patient number 349 , 64,female, Bengaluru,  case of SARI 
+*Patient number 348 , 26, male, Nanjaungud,  contact of P-52  discharj jojo
+*Patient number 347 , 29, male, Nanjaungud,  contact of P-52  discharj jojo
+*Patient number 346 , 22, male, Nanjaungud,  contact of P-52  discharj jojo
+*Patient number 345 , 28, male, Nanjaungud,  contact of P-52  discharj jojo
+*Patient number 344 , 26, male, Mysuru,  contact of P-52 
+*Patient number 343 , 38, male, Nanjaungud,  contact of P-52  discharj jojo
+Patient number 342 , 38, male, Nanjaungud,  contact of P-52  discharj jojo
+Patient number 341 , 22, male, Nanjangud,  contact of P-52
+Patient number 340 , 19, male, Chikkaballapura,  contact of P-250
+Patient number 339 , 20, male, Chikkaballapura,  contact of P-250
+Patient number 338 , 36, male, Chikkaballapura,  contact of P-250
+Patient number 337 , 24, male, Bellari,  contact of P-141  discharj jojo
+Patient number 336 , 50, male, Bellari,  contact of P-141
+Patient number 335 , 10,female, Bellari,  contact of P-141  She discharj jojo
+Patient number 334 , 48,female, Bellari,  contact of P-141  She discharj jojo
+Patient number 333 , 21, male, Bellari,  contact of P-141  discharj jojo
+Patient number 332 , 68,female, Bellari,  contact of P-141  She discharj jojo
+Patient number 331 , 39, male, Bellari,  contact of Contact of P-89& P-90&P-91 & P-141
+*Patient number 330 , 28,female, Vijapura,  contact of P-221  She discharj jojo
+Patient number 329 , 6, male, Vijapura,  contact of P-221  discharj jojo
+Patient number 328 , 18, male, Bidar,  contact of a person who travelled to Delhi  discharj jojo
+Patient number 327 , 25,female, Bengaluru,  contact of P-252  She discharj jojo
+Patient number 326 , 6, male, Bengaluru,  contact of P-252  discharj jojo
+Patient number 325 , 39, male, Dakshina Kannada,  a travel history to Delhi on March 28  discharj jojo
+Patient number 324 , 45, male, Mandaya,  contact of P171  discharj jojo
+Patient number 323 , 29, male, Mandaya,  contact of P-171 He discharj jojo
+Patient number 322 , 25, male, Mandaya,  contact of P171  discharj jojo
+Patient number 321 , 41,female, Mysuru,  contact of P273
+Patient number 320 , 33, male, from Nanjangud,  contact of P52
+Patient number 319 , 33, male, Nanjangud,  contact of P52  discharj jojo
+Patient number 318 , 50, male, Nanjangud,  contact of P52  discharj jojo
+Patient number 317 , 11,female, Bengaluru,  contact of P-167 & P-168  She discharj jojo
+Patient number 316 , 55, male, Bengaluru, contact of P-167 & P-168  discharj jojo
+Patient number 315 , 5, male, Kalaburagi,  Contact tracing is on  discharj jojo
+Patient number 314 , 32, male, Kalaburagi,  case of Influenza Like Illness(ILI) with a travel histrory to Bengaluru  discharj jojo
+Patient number 313 , 55,female, Vijayapura, contact of P221
+Patient number 312 , 26,female, Mysuru, contact of P77  She discharj jojo
+Patient number 311 , 38, male, Mysuru, contact of P52  discharj jojo
+Patient number 310 , 1,female, Vijayapura, contact of P228 & P232  She discharj jojo
+Patient number 309 , 70,female, Vijayapura, contact of P221  She discharj jojo
+Patient number 308 , 37, male, Vijayapura, contact of P221  discharj jojo
+Patient number 307 , 66, male, Vijayapura, contact of P221  discharj jojo
+Patient number 306 , 65, male, Vijayapura, contact of P221  discharj jojo
+Patient number 305 , 12, male, Vijayapura, contact of P221
+Patient number 304 , 59,female, Gadag, contact of P166  She discharj jojo
+Patient number 303 , 52, male, Mysuru, contact of P52
+Patient number 302 , 23, male, Kalaburagi, contact of P274
+Patient number 301 , 64, male, Belagavi, contact of P245  discharj jojo
+Patient number 300 , 25, male, Belagavi, contact of P245
+Patient number 299 , 35, male, Belagavi, contact of P245  discharj jojo
+Patient number 298 , 50, male, Goa, is staying in Belagavi for last one month  contact of P245  discharj jojo He discharj jojo
+Patient number 297 , 43, male, Belagavi, with a travel history to Delhi  discharj jojo
+Patient number 296 , 30, male, Belagavi, with a travel history to Delhi  discharj jojo
+Patient number 295 , 45,female, Belagavi, with a travel history to Delhi  She discharj jojo
+Patient number 294 , 25, male, Belagavi, with a travel history to Delhi  discharj jojo
+Patient number 293 , 47, male, Belagavi, with a travel history to Delhi  discharj jojo
+Patient number 292 , 42, male, Bengaluru,  Contact under tracing is on
+Patient number 291 , 37, male, Bengaluru,  Contact under tracing is on
+Patient number 290 , 54,female, Ananthapura AP, but admitted in Bengaluru  Contact under tracing is on  She discharj jojo
+*Patient number 289 , 58,female, Belagavi, contact of P224  discharj jojo
+Patient number 288 , 54,female, Belagavi, contact of P224  She discharj jojo
+Patient number 287 , 30,female, Belagavi, contact of P224
+Patient number 286 , 65,female, Belagavi, contact of P224  She discharj jojo
+Patient number 285 , 16,female, Belagavi, contact of P224  She discharj jojo
+Patient number 284 , 33, male, Belagavi, contact of P225
+*Patient number 283 , 42, male, Belagavi, contact of P224  discharj jojo
+Patient number 282 , 51,female, Belagavi, contact of P225  She discharj jojo
+Patient number 281 , 65,female, Bengaluru,  case of SARI  She gobyebye on April 19
+Patient number 280 , 13, male, Bengaluru, contact of P252
+Patient number 279 , 80,female, Belagavi, contact of f P224  She gobyebye
+*Patient number 278 , 28,female, Vijayapura, contact of P221  She discharj jojo
+Patient number 277 , 32,female, Bengaluru, contact of P252
+Patient number 276 , 25, male, Vijayapura, contact of P221
+Patient number 275 , 38,female, Vijayapura, contact of P221
+Patient number 274 , 1, male, Kalaburagi,  case of Influenza Like Illness (ILI)  discharj jojo
+Patient number 273 , 72, male, Mysuru,  case of SARI  discharj jojo
+Patient number 272 , 32, male, Nanjanagudu Mysuru, and works at the same pharmaceutical company as P52  discharj jojo
+Patient number 271 , 28, male, Nanjanagudu Mysuru, and works at the same pharmaceutical company as P52  discharj jojo
+Patient number 270 , 35, male, Nanjanagudu Mysuru, and works at the same pharmaceutical company as P52
+Patient number 269 , 23, male, Nanjanagudu Mysuru, and works at the same pharmaceutical company as P52  discharj jojo
+Patient number 268 , 26, male, Nanjanagudu Mysuru, and works at the same pharmaceutical company as P52  discharj jojo
+Patient number 267 , 35, male, Nanjanagudu Mysuru, and works at the same pharmaceutical company as P52
+Patient number 266 , 27, male, Nanjanagudu Mysuru, and works at the same pharmaceutical company as P52  discharj jojo
+Patient number 265 , 30, male, Nanjanagudu Mysuru, and works at the same pharmaceutical company as P52
+Patient number 264 , 41, male, Nanjanagudu Mysuru, and works at the same pharmaceutical company as P52  discharj jojo
+Patient number 263 , 39, male, Bagalakote, and his contact tracing is on  discharj jojo
+Patient number 262 , 52, male, Bagalakote,  contact of P186  discharj jojo
+Patient number 261 , 59, male, Bengaluru,  case of SARI
+Patient number 260 , 36, male, Bhatkal, contact of P176  discharj jojo
+Patient number 259 , 35,female, Bengaluru, contact of P199
+Patient number 258 , 33, male, Belagavi, with a travel history to Delhi
+Patient number 257 , 69, male, Vijayapura, contact of P221 gobyebye on Apr 14
+Patient number 256 , 35,female, Kalaburagi, contact of P177  She discharj jojo
+Patient number 255 , 51, male, Kalaburagi, contact of P205  discharj jojo
+Patient number 254 , 10,female, Kalaburagi, contact of P177  She discharj jojo
+Patient number 253 , 26, male, Bengaluru, travelled to Hindupur on his 2-wheeler on April 7  discharj jojo
+Patient number 252 , 65, male, Bengaluru, case of SARI gobyebye on Apr 14
+Patient number 251 , 39,female, Bagalakote, contact of P125
+Patient number 250 , 65, male, Chikkaballapura,  case of SARI gobyebye
+*Patient number 249 , 32,female, Bagalakote, contact of P186 & P165
+*Patient number 248 , 43, male, Bagalakote, contact of P186 & P165
+*Patient number 247 , 62, male, Bengaluru,  case of SARI (Severe Acute Respiratory Illness) He discharj jojo
+Patient number 246 , 39, male, Kodipalya near Madure temple, in Doddaballapur taluk Bengaluru rural with a travel history to Delhi  discharj jojo
+Patient number 245 , 45, male, Raibagh Belagavi district, contact of P 149  discharj jojo
+Patient number 244 , 14, male, Raibagh Belagavi district, contact of P 149  discharj jojo
+Patient number 243 , 20, male, Raibagh Belagavi district, contact of P 149  discharj jojo
+Patient number 242 , 35,female, Bidar, contact of P 211  She discharj jojo
+Patient number 241 , 16,female, Bidar, conatct of P 211  She discharj jojo
+Patient number 240 , 27, male, Mudhol Bagalkot district, contact of P 164  She discharj jojo
+Patient number 239 , 18, male, Malavalli Mandaya, contact of P 179  discharj jojo
+Patient number 238 , 8,female, Malavalli Mandaya, contact of P 179  She discharj jojo
+Patient number 237 , 60,female, Malavalli Mandaya, contact of P 179  She discharj jojo
+Patient number 236 , 36 , male, Hubballi, contact of P 194  discharj jojo
+Patient number 235 , 7 ,female, Hubballi, contact of P 194  She discharj jojo
+ Patient number 234 ,20, male, Hubballi, contact of P 194  discharj jojo
+Patient number 233 , 5, male, Hubballi, contact of P 194  discharj jojo
+Patient number 232 ,20, male, Vijayapura, and his contact tracing is on  discharj jojo
+Patient number 231 ,49, male, Vijayapura, and his contact tracing is on  discharj jojo
+Patient number 230 ,10, male, Vijayapura, and his contact tracing is on  discharj jojo
+Patient number 229 ,12,female, Vijayapura, and her contact tracing is on  She discharj jojo
+Patient number 228 ,13, male, Vijayapura, and his contact tracing is on  discharj jojo
+Patient number 227 ,2, male, Kalaburgi,  case of SARI (Severe Acute Respiratory Illness)  discharj jojo
+Patient number 226 ,25, male, Raibagh Belagavi, contact of P 150  discharj jojo
+Patient number 225 ,55, male, Raibagh Belagavi, contact of P 150  discharj jojo
+Patient number 224 ,38, male, Hirebagewadi Belagavi, contact of P 128  discharj jojo
+Patient number 223 ,19, male, Raibagh Belagavi, contact of P 150
+Patient number 222 ,38,female, Kalaburgi, contact of P 177  She discharj jojo
+Patient number 221 ,60,female, Vijayapura,  case of SARI (Severe Acute Respiratory Illness)  She discharj jojo
+Patient number 220 ,24,female, Kalaburgi, conatct of P 177  She discharj jojo
+Patient number 219 ,76, male, Bengaluru,  case of SARI (Severe Acute Respiratory Illness) He gobyebye on Apr 14
+Patient number 218 ,58 , male, Bengaluru, with a travel history to Indonesia  discharj jojo He discharj jojo
+Patient number 217 ,75,female, Bengaluru, nd a case of SARI (Severe Acute Respiratory Illness)She discharj jojo
+Patient number 216 ,32, male, Mysuru, contact of P 88  discharj jojo
+Patient number 215 , 10, male, Benglauru, contact of P 192
+Patient number 214 , 26, male, Mysuru, contact of P 88
+Patient number 213 , 31, male, Mysuru, contact of P 88  discharj jojo
+Patient number 212 , 27,female, Mysuru, contact of P 88  She discharj jojo
+Patient number 211 , 50,female, Bidar, contact of P 88  She discharj jojo
+Patient number 210 , 43, male, Mysuru, contact of P 88
+Patient number 209 , 46, male, Mysuru, contact of P 88
+ Patient number 208 , 32, male, Bengaluru, contact of P 196
+*Patient number 207 , 11,female, Bengaluru, rural contact of P 206  She discharj jojo
+Patient number 206 , 35, male, Bengaluru, rural contact of P 169  discharj jojo
+Patient number 205 , 55, male, Kalaburagi,  case of SARI (Severe Acute Respiratory Illness) He gobyebye on Apr 14
+Patient number 204 , 48,female, Mysuru, contact of P 183  She discharj jojo
+Patient number 203 , 28,female, Mysuru, contact of P 85
+Patient number 202 , 33, male, Mysuru, contact of P 111  discharj jojo
+Patient number 201 , 48,female, Mysuru, contact of P 103
+ Patient number 200 , 8, male, Mysuru, contact of P 159 & P 103  discharj jojo
+Patient number 199 , 57, male, Bengaluru, contact of P 167& P 168
+Patient number 198 , 48, male, Bengaluru,  contact of P 167& P 168
+ Patient number 197 , 27, male, Bengaluru,  case of SARI (Severe Acute Respiratory Illness)
+ * Patient number 196 , 42, male, Bengaluru,  case of SARI (Severe Acute Respiratory Illness)
+ * Patient number 195 , 66, male, Bengaluru, returned from Manipur on March 12  case of SARI (Severe Acute Respiratory Illness) He gobyebye
+ * Patien number 194 , 27, male, Hubballi,  a travel history to Delhi  discharj jojo
+ Patient number 193 , 22, male, Belagavi, contact of P 128  discharj jojo
+ Patient number 192 , 40,female, Belagavi, contact of P 128
+ Patient number 191 , 48 ,female, Chikkaballapura, contact of P 19 and P 94  discharj jojo
+ Patient number 190 , 27, male, Bengaluru,  a travel history to Delhi  discharj jojo He discharj jojo He discharj jojo
+ Patient number 189 , 19,female, Bengaluru,  a travel history to Delhi
+ Patient number 188 , 9,female, Bagalkot, contact of P 165
+ Patient number 187 , 13, male, Bagalkot, contact of P 165
+ Patient number 186 , 4, male, Bagalkot, contact of P 165 (son)
+ Patient number 185 , 32 ,female, Nanjangud, and contact of P 78
+ Patient number 184 , 68, male, Mysuru, contact of P 159(father)  discharj jojo
+ Patient number 183 , 55 , male, Mysuru, contact of P 104 & P 154
+ Patient number 182 , 50, male,Belagavi, contact of P128
+ Patient number 181 , 27,female, Bengaluru,  a travel history to Delhi
+ Patient number 180 , 23, male, Chikkaballapur,  a travel history to Delhi  discharj jojo
+ Patient number 179 , 35, male, Mandaya, contact of P134 & P138  discharj jojo
+ Patient number 178 , 72,female, Kalburgi, contact of P175 (mother)  She discharj jojo
+ Patient number 177 , 65, male, Kalburgi, who discharj admitted with severe acute respiratory infection gobyebye on Apr 08
+ Patient number 176 , 26,female, Uttara Kannada, with a travel history to Dubai  She discharj jojo
+ Patient number 175 , 57 , male, Kalaburgi, who discharj admitted with severe acute respiratory infection  discharj jojo
+ Patient number 174 ,28,female, Kalaburgi, contact of P 124 (daughter in law)  She discharj jojo
+ Patient number 173 , 65, male, Mandaya, contact of P 135-P 138
+ * Patient number 172 , 36, male, Mandaya, contact of P 135-P 138
+ Patient number 171 , 32, male, Mandaya,  contact of P 135 & P 138
+ Patient number 170 , 68, male, Bengaluru, who returned from Dubai  discharj jojo
+ Patient number 169 , 35, male, Hoskote Bengaluru rural, with a travel history to Delhi  discharj jojo
+Patient number 168 , 50, male, Bengaluru, with a travel history to Delhi  discharj jojo
+Patient number 167 , 29, male, Bengaluru, with a travel history to Delhi  discharj jojo
+Patient number 166 , 80,female, Gadag, who was admitted with severe acute respiratory infection gobyebye
+*Patient number 165 , 41 ,female, Bagalkot, contact of P 125 ((neighbour)
+ Patient number 164 , 33, male, Mudhol Bagalkot, with a travel history to Delhi
+ Patient number 163 , 43 , male, Hosakote Bengaluru rural, with a travel history to Delhi  discharj jojo
+ Patient number 162 , 58, male, Bagalkot, contact of P 125 (brother)  discharj jojo
+ Patient number 161 , 56,female, Bagalkot, contact of P 125 (wife)  She discharj jojo
+ Patient number 160 , 35 , male, Mysuru, with a travel history to Dubai  discharj jojo
+ Patient number 159 , 32,female, Mysuru, who was working in the Nanjangud pharma company
+ Patient number 158 , 26, male, Mysuru, and details are being ascertained  discharj jojo
+ Patient number 157 , 22, male, Unknown,with a travel history to Delhi  discharj jojo
+ Patient number 156 , 57, male, Unknown,with a travel history to Delhi  discharj jojo
+ Patient number 155 , 37, male, Unknown,with a travel history to Delhi  discharj jojo He discharj jojo
+Patient number 154 , 20, male, Mysuru, contact of P 104 (brother)  discharj jojo
+ Patient number 153 , 62,female, Kerala, who returned from Germany a contact of P 106 and P 133  She discharj jojo
+ Patient number 152 , 32 , male, Bengaluru, who's a contact of P43 (father) and P44  discharj jojo
+ Patient number 151 , 41, male, Ballari, who attended Tablighi Jamaat congregation and returned on March 20
+ Patient number 150 , 41,female, Raibagh Belagavi,with a travel history to Delhi  She discharj jojo
+ Patient number 149 , 67,female, Raibagh Belagavi, with a travel history to Delhi  She discharj jojo
+ Patient number 148 , 40, male, Raibagh Belagavi, with a travel history to Delhi  discharj jojo
+ Patient number 147 , 36,female, Raibagh Belagavi,with a travel history to Delhi
+ Patient number 146 , 62,female, Bengaluru, who returned from Dubai on March 22  contact of P 145 (wife)  He discharj jojo
+ Patient number 145 , 68, male, Bengaluru, who returned from Dubai on March 22  discharj jojo
+ Patient number 144 , 52, male, Dakshina Kannada, who had a travel history to Delhi  discharj jojo
+ Patient number 143 , 43,female, Dakshina Kannada, who had a travel history to Delhi  jojo
+ Patient number 142 , 63,female, Udupi, who had returned from Dubai on March 22  She discharj jojo
+ Patient number 141 , 47,female, Hospet, and contact tracing is on  discharj jojo
+ Patient number 140 , 34, male, Mysuru, who contact of P109  discharj jojo
+ Patient number 139 , 40, male, Mysuru, and his contacts are being traced  discharj jojo
+ Patient number 138 , 54, male, Mysuru, who had a travel history to Delhi  discharj jojo
+ Patient number 137 , 39, male, Mysuru, who had a travel history to Delhi  discharj jojo
+ Patient number 136 , 39, male, Mysuru, who had a travel history to Delhi  discharj jojo
+ Patient number 135 , 19, male, Mysuru, who had a travel history to Delhi  discharj jojo
+ Patient number 134 , 38, male, Mysuru, who had a travel history to Delhi  discharj jojo
+ Patient number 133 , 60, male, Kochi,  a travel hisory to Germany
+ Patient number 132 , 78, male, Bengaluru,  a travel history to Dubai returned to India on March 17  discharj jojo
+ Patient number 131 , 43, male, Bengaluru, who is contact of P101 (son)
+ Patient number 130 , 57 , male, Bengaluru, contact of P58 (father)
+ Patient number 129 , 21 , male, Bengaluru, contact of P58 (servant)  discharj jojo He discharj jojo
+* Patient number 128 , 20, male,Belagavi,  a travel history to Delhi  discharj jojo
+ Patient number 127 , 26, male, Belagavi,  a travel history to Delhi  discharj jojo
+ Patient number 126 , 70, male, Belagavi,  a travel history to Delhi  discharj jojo
+ Patient number 125 , 75, male, Bagalkot,  Tracing is still on as to how he was infected gobyebye
+ Patient number 124 , 60,female, Kalaburgi,  contact person of person who had a travel history to Delhi  She discharj jojo
+ Patient number 123 , 45, male, Bidar,  a travel history to Delhi  discharj jojo
+ Patient number 122 , 73, male, Bidar,  a travel history to Delhi  discharj jojo
+ Patient number 121 , 63, male, Bidar,  a travel history to Delhi  discharj jojo
+ Patient number 120 , 60, male, Bidar,  a travel history to Delhi  discharj jojo
+ Patient number 119 , 39, male, Hyderabad, who was admitted in Bidar  a travel history to Delhi  discharj jojo
+ Patient number 118 , 59, male, Basavakalyan,  a travel history to Delhi  discharj jojo
+ Patient number 117 , 66, male, Bidar,  a travel history to Delhi  discharj jojo
+ Patient number 116 , 41, male, Bidar,  a travel history to Delhi  discharj jojo
+ Patient number 115 , 30, male, Bidar,  a travel history to Delhi  discharj jojo
+ Patient number 114 , 48, male, Bidar,  a travel history to Delhi  discharj jojo
+ Patient number 113 , 14, male, Ballari,  contact of P81 (Son)  discharj jojo
+ Patient number 112 , 22, male, Mysore,  contact of P88 (roommate)  discharj jojo
+ Patient number 111 , 24, male, Mysore,  contact of P88 (roommate) He discharj jojo
+ Patient number 110 , 27,female, Mysore,  contact of P52 (Wife)  She discharj jojo
+Patient number 109 , 63, male, Mysore,  contact of P52  discharj jojo
+Patient number 108 , 63 , male, Kerala,  a travel history to Germany returned to Bengaluru on March 21
+Patient number 107 , 26, male, Bengaluru,  a travel history to Spain  returned to India on March 18  discharj jojo
+Patient number 106 , 49, male, Dakshina Kannada,  a travel history to Dubai returned to India March 20
+Patient number 105 , 33 , male, Bengaluru,  contact of P103  discharj jojo
+Patient number 104 , 27 , male, Nanjangud Mysore,  contact of P52  discharj jojo
+Patient number 103 , 37 , male, Nanjangud Mysore,  contact of P52
+ Patient number 102 , 24, male, Bengaluru,  Medical investigation is under process  discharj jojo
+ Patient number 101 , 62, male,Bengaluru,  Medical investigation is under process  discharj jojo
+ Patinet number 100 , 40, male, Bengaluru,  a travel history to Dubai returned to India on March 20
+ Patient number 99 , 60,female, Kalburgi, contact of P9 (wife)  She discharj jojo
+ Patient number 98 , 26, male, Batkal Uttara Kannada,  a travel history to Dubai returned to India on March 20  discharj jojo
+ Patient number 97 , 34, male, Dakshina Kannada,  a travel history to Dubai returned to India on March 18  discharj jojo
+ Patient number 96 , 41, male, Mysore, and contact of P52  discharj jojo
+ Patient number 95 , 35, male, Mysore, contact of P52  discharj jojo
+ Patient number 94 , 40,female, Gowribidanur Taluk Chikkaballapur,  Medical investigation is under process  She discharj jojo
+ Patient number 93 , 19, male, Bengaluru,  a travel history to New York USA returned to India on March 22  discharj jojo
+ Patient number 92 , 40, male, Bengaluru, contact of P59 (Husband)  discharj jojo
+ Patient number 91 , 26,female, Hospet- Bellary,  a travel history to Bengaluru on March 16  discharj jojo
+ Patient number 90 , 48,female, Hospet- Bellary, a travel history to Bengaluru on March 16
+ Patient number 89 , 52, male, Hospet- Bellary,  a travel history to Bengaluru on March 16  discharj jojo
+ Patient number 88 , 24, male, Nanjungud Mysuru, and works at the same pharmaceutical company as P52  discharj jojo
+ Patient number 87 , 21, male, Nanjungud Mysuru, and works at the same pharmaceutical company as P52  She discharj jojo
+ Patient number 86 , 34, male, Nanjungud Mysuru, and works at the same pharmaceutical company as P52  discharj jojo
+ Patient number 85 , 32, male, Nanjungud Mysuru, and works at the same pharmaceutical company as P52  discharj jojo
+ Patient number 84 , 13, male, Tumkur, contact of P60 (son)  discharj jojo
+ Patient number 83 , 29, male, Udupi,  a travel history to Trivandrum Kerala  discharj jojo
+ Patient number 82 , 35, male, Udupi,  a travel history to Dubai  P82 arrived in India on March 17  discharj jojo
+ Patient number 81 , 42, male, Nanjangud Mysuru, and works at a pharmaceutical company  discharj jojo
+ Patient number 80 , 31, male, Nanjangud Mysuru, and works at a pharmaceutical company  discharj jojo
+ Patient number 79 , 21, male, Nanjangud Mysuru,  P79 works at a pharmaceutical company  discharj jojo
+ Patient number 78 , 38, male, Mysuru, contact P51  P78 is employed at a pharmaceutical company  discharj jojo
+ Patient number 77 , 39, male, Nanjangud Mysuru,  P77 works at a pharmaceutical company  discharj jojo
+ Patient number 76 , 24, male, Uttara Kannada, contact of P35
+ Patient number 75 , 20, male, Davangere, contact of P42 (cousin)  She discharj jojo
+ Patient number 74 , 63,female, Bengaluru, had a history of travel to London rrived in India on March 16 2020  She discharj jojo
+ Patient number 73 , 18, male, Unknown, contact of P19  discharj jojo
+ Patient number 72 , 38, male, Unknown, contact of P19  discharj jojo
+ Patient number 71 , 32,female, Gowribidnur Taluka Chikkaballapur, and contact of P19  She discharj jojo
+ Patient number 70 , 70, male, Gowribidnur Taluka Chikkaballapur, and contact of P19  discharj jojo
+ Patient number 69 , 23, male, Hindupur Andhra Pradesh, and contact of P19  This case is isolated at designated hospital in Chikkaballapur  discharj jojo
+ Patient number 68 , 21, male, Bengaluru, had a history of travel to London and contact of P25 (son) arrived in India on March 17 2020  discharj jojo
+ Patient number 67 , 23,female, Uttara Kannada, contact of P36 (daughter)
+ Patient number 66 , 28,female, and  Uttara Kannada, contact of P36 (daughter)
+ Patient number 65 , 54,female,  Uttara Kannada, and contact of P36 (wife)
+ Patient number 64 , 21, male, Dakshina Kannada,  a travel history to Dubai  P64 returned to India on March 22  discharj jojo
+ Patient number 63 , 18, male, Davanagere,  a travel history to Paris  P63 returned to India on March 18  discharj jojo
+ Patient number 62 , 22, male, Uttara Kannada,  a travel history to Dubai
+ Patient number 61 , 33,female, Bengaluru, contact of P25 (housemaid)  She discharj jojo
+ Patient number 60 , 60, male, Tumkur,  a travel history to Delhi by train on March 13  P60 gobyebye on March 27
+ Patient number 59 , 35,female, Bengaluru, contact of P25 (housemaid)  She discharj jojo
+ Patient number 58 , 25,female, Bengaluru,  a travel history to London  P58 returned to India on March 18  She discharj jojo
+ Patient number 57 , 20, male, Bengaluru,  a travel history to Colombo  P57 returned to India on March 15  discharj jojo
+ Patient number 56 , 1 , male, Dakshina Kannada,  NO travel history  discharj jojo
+ Patient number 55 , 45, male, Bengaluru, contact of P25 (security guard)  discharj jojo
+ Patient number 54 , 64, male, Anantapura Andhra Pradesh,  a travel history to France  P54 returned to India on March 1 then travelled to Himachal Pradesh Puttaparthi and came to Bengaluru on March 21  discharj jojo
+ Patient number 53 , 70,female, Chikkaballapura,  a travel history to Mecca Saudi Arabia  P53 returned to India on March 14  She gobyebye on March 24
+ Patient number 52 , 35, male, Mysuru,  NO travel history or contact with positive cases  P52 works at a pharmaceutical company in Nanjangud Mysuru and was in contact with many healthcare professionals  discharj jojo
+ Patient number 51 , 34, male, Udupi,  a travel history to Dubai  P51 returned to India on March 18  discharj jojo
+ Patient number 50 , 7,female, Bengaluru, contact of P17 (daughter)  She discharj jojo
+ Patient number 49 , 9,female, Bengaluru, contact of P17 (daughter)  She discharj jojo
+ Patient number 48 , 69, male, Bengaluru,  a travel history to Athens and London  P48 returned to India on March 18 with P47 (wife)  discharj jojo
+ Patient number 47 , 63,female, Bengaluru,  a travel history to Athens and London  P47 returned to India on March 18  She discharj jojo
+ Patient number 46 , 26, male, Bengaluru,  a travel history to Spain  P46 returned to India via Dubai on March 14 with P45  discharj jojo
+ Patient number 45 , 26, male, Bengaluru,  a travel history to Spain  P45 returned to India via Dubai on March 14
+ Patient number 44 , 59,female, Bengaluru,  a travel history to Brazil rgentina  P44 returned to India on March 19 with P43 (husband)  She discharj jojo
+ Patient number 43 , 63, male, Bengaluru,  a travel history to Brazil rgentina  P43 returned to India on March 19  discharj jojo
+ Patient number 42 , 37,female, Chitradurga,  a travel history to Guyana  P42 returned to India on March 20  She discharj jojo
+ Patient number 41 , 23, male, Kasargod Kerala,  a travel history to Dubai  P41 returned to India on March 20  discharj jojo
+ Patient number 40 , 70,female, Kasargod Kerala,  a travel history to Saudi Arabia  She discharj jojo
+ Patient number 39 , 47, male, Kasargod Kerala,  a travel history to Dubai  discharj jojo He discharj jojo
+ Patient number 38 , 56,female, Bengaluru, contact of P13  She discharj jojo
+ Patient number 37 , 56,female, Chikkaballapura,  a travel history to Mecca Saudi Arabia  P37 returned to India on March 14 and  flight contact (co-passenger) of P19 and P22  She discharj jojo
+ Patient number 36 , 65, male, Uttara Kannada,  a travel history to Dubai  P36 returned to India on March 18  discharj jojo
+ Patient number 35 , 40, male, Uttara Kannada,  a travel history to Dubai  P35 returned to India on March 21  discharj jojo
+ Patient number 34 , 32, male, Kasargod Kerala,  a travel history to Dubai  P34 returned to India on March 20  discharj jojo
+ Patient number 33 , 22, male, Kannur Kerala,  a travel history to Dubai  P33 returned to India on March 22  discharj jojo
+ Patient number 32 , 60, male, Bengaluru,  a travel history to Germany  P32 returned to India on March 17  discharj jojo
+ Patient number 31 , 24, male, Bengaluru,  a travel history to USA and Dubai  P31 returned to India on March 18  discharj jojo
+ Patient number 30 , 30,female, Bengaluru, contact of P17 (wife)  She discharj jojo
+ Patient number 29 , 41, male, Bengaluru,  a travel history to London  P29 returned to India on March 13  discharj jojo
+ Patient number 28 , 38, male, Bengaluru,  a travel history to Dubai  P28 returned to India on March 17  discharj jojo
+ Patient number 27 , 46, male, Kerala,  a travel history to Dubai  P27 returned to India on March 22  discharj jojo
+ Patient number 26 , 22, male, Uttara Kannada,  a travel history to Dubai  P26 returned to India on March 19  discharj jojo
+ Patient number 25 , 51, male, Bengaluru,  a travel history to London  P25 returned to India on March 13  discharj jojo
+ Patient number 24 , 27, male, Bengaluru,  a travel history to Germany  P24 returned to India on March 14  discharj jojo
+ Patient number 23 , 36,female, Bengaluru,  a travel history to Switzerlnd France  P23 returned to India on March 9  She discharj jojo
+ Patient number 22 , 64,female, Chikkaballapura,  a travel history to Mecca Saudi Arabia  P22 returned to India on March 14 with her son (P19)  She discharj jojo
+ Patient number 21 , 35, male, Dharwad,  a travel history to Dubai  P21 returned to India on March 11  discharj jojo
+ Patient number 20 , 35, male, Mysuru,  a travel history to Dubai  P20 returned to India on March 19  discharj jojo
+ Patient number 19 , 31, male, Chikkaballapura,  a travel history to Mecca Saudi Arabia  P19 returned to India on March 14  discharj jojo
+ Patient number 18 , 21, male, Bengaluru,  a travel history to Edinburgh Scotland  P18 returned to India on March 17  discharj jojo
+ Patient number 17 , 39, male, Bengaluru,  a travel history to Amsterdam Netherlands  P17 returned to India on March 19
+ Patient number 16 , 53,female, Bengaluru, contact of P11 (housemaid)  She discharj jojo
+ Patient number 15 , 35, male, Kodagu,  a travel history to Dubai  P15 returned to India on March 15  discharj jojo
+ Patient number 14 , 35, male, Bengaluru,  a travel history to USA  P14 returned to India on March 10  discharj jojo
+ Patient number 13 , 56,female, Bengaluru,  a travel history to USA  P13 returned to India on March 6  She discharj jojo
+ Patient number 12 , 25, male, Bengaluru,  a travel history to Madrid Spain  P12 returned to India on March 13  discharj jojo
+ Patient number 11 , 67,female, Bengaluru,  a travel history to Dubai  She returned to India on March 9  She discharj jojo
+ Patient number 10 , 20,female, Bengaluru,  a travel history to the UK  She returned to India on March 14  She discharj jojo
+ Patient number 9 , 63, male, Kalaburagi, contact of P6 (doctor)  discharj jojo
+ Patient number 8 , 32, male, Bengaluru, contact of P4 (flight contact) returned to India from USA via London  discharj jojo
+ Patient number 7 , 45,female, Kalaburagi, contact of P6 (daughter)  She discharj jojo
+ Patient number 6 , 76, male, Kalaburagi, who returned to India from Saudi Arabia on February 29 gobyebye on March 10 (first death in India)
+ Patient number 5 , 26, male, Bengaluru,  a travel history to Greece  P5 was discharged on March 20
+ Patient number 4 , 50, male, Bengaluru,  a travel history to USA returned to India via London  P4 was discharged on March 24
+ Patient number 3 , 13,female, Bengaluru, contact of P1 (daughter)  P3 was discharged on March 27
+ Patient number 2 , 47,female, Bengaluru, contact of P1 (wife)  P2 was discharged on March 24
+ Patient number 1 , 46, male, Bengaluru, a travel history to USA returned to India via Dubai  P1 was discharged on March 27
